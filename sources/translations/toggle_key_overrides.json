@@ -1,0 +1,19 @@
+{
+  "ACTIVE_SECTION_FOOTER": "控制中心最多只能显示 6 个开关。",
+  "ACTIVE_SECTION_HEADER": "已启用",
+  "ACTIVE_TOGGLES_FOOTER": "添加并调整要在控制中心显示的附加开关。",
+  "ACTIVE_TOGGLES_LABEL": "已启用开关",
+  "AUTO_REPLY": "自动回复",
+  "BLOCK_CALLS": "屏蔽来电",
+  "DELIVERY_RECEIPTS": "送达回执",
+  "DISABLED_SECTION_HEADER": "已禁用",
+  "DISABLE_INTERNET": "禁用网络",
+  "DISABLE_WHEN_PASSCODE_LOCKED_FOOTER": "设备锁屏时禁止访问这些开关。",
+  "DISABLE_WHEN_PASSCODE_LOCKED_LABEL": "锁屏时禁用",
+  "HIDE_CHATS": "隐藏聊天",
+  "LAST_SEEN": "最后上线",
+  "READ_RECEIPTS": "已读回执",
+  "RESPRING_BUTTON": "注销 SpringBoard",
+  "RESPRING_FOOTER": "应用更改需要执行一次注销 SpringBoard。",
+  "TOGGLES_PAGE_TITLE": "开关"
+}

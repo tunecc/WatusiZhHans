@@ -1,0 +1,40 @@
+{
+  "resources": {
+    "bundle": "Resources.bundle",
+    "total": 842,
+    "key_override": 679,
+    "value_override": 163,
+    "fallback_en": 0
+  },
+  "toggle": {
+    "bundle": "WatusiToggle.bundle",
+    "total": 17,
+    "key_override": 17,
+    "value_override": 0,
+    "fallback_en": 0
+  },
+  "outputs": {
+    "resources_strings": "layout/var/jb/Library/Application Support/Watusi/Resources.bundle/zh-Hans.lproj/Localizable.strings",
+    "toggle_strings": "layout/var/jb/Library/ControlCenter/Bundles/WatusiToggle.bundle/zh-Hans.lproj/Localizable.strings",
+    "inventory_csv": "output/spreadsheet/watusi_zh_hans_inventory.csv",
+    "missing_csv": "output/spreadsheet/watusi_zh_hans_missing.csv",
+    "resource_locale_aliases": [
+      "layout/var/jb/Library/Application Support/Watusi/Resources.bundle/zh-Hans.lproj/Localizable.strings",
+      "layout/var/jb/Library/Application Support/Watusi/Resources.bundle/zh_CN.lproj/Localizable.strings",
+      "layout/var/jb/Library/Application Support/Watusi/Resources.bundle/zh-CN.lproj/Localizable.strings",
+      "layout/var/jb/Library/Application Support/Watusi/Resources.bundle/zh.lproj/Localizable.strings",
+      "layout/var/jb/Library/Application Support/Watusi/Resources.bundle/zh_Hans.lproj/Localizable.strings",
+      "layout/var/jb/Library/Application Support/Watusi/Resources.bundle/zh-Hans-CN.lproj/Localizable.strings",
+      "layout/var/jb/Library/Application Support/Watusi/Resources.bundle/zh_Hans_CN.lproj/Localizable.strings"
+    ],
+    "toggle_locale_aliases": [
+      "layout/var/jb/Library/ControlCenter/Bundles/WatusiToggle.bundle/zh-Hans.lproj/Localizable.strings",
+      "layout/var/jb/Library/ControlCenter/Bundles/WatusiToggle.bundle/zh_CN.lproj/Localizable.strings",
+      "layout/var/jb/Library/ControlCenter/Bundles/WatusiToggle.bundle/zh-CN.lproj/Localizable.strings",
+      "layout/var/jb/Library/ControlCenter/Bundles/WatusiToggle.bundle/zh.lproj/Localizable.strings",
+      "layout/var/jb/Library/ControlCenter/Bundles/WatusiToggle.bundle/zh_Hans.lproj/Localizable.strings",
+      "layout/var/jb/Library/ControlCenter/Bundles/WatusiToggle.bundle/zh-Hans-CN.lproj/Localizable.strings",
+      "layout/var/jb/Library/ControlCenter/Bundles/WatusiToggle.bundle/zh_Hans_CN.lproj/Localizable.strings"
+    ]
+  }
+}

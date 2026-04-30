@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACTIVE_TOGGLES_FOOTER</key>
+	<string>添加并调整要在控制中心显示的附加开关。</string>
+	<key>ACTIVE_SECTION_FOOTER</key>
+	<string>控制中心最多只能显示 6 个开关。</string>
+	<key>BLOCK_CALLS</key>
+	<string>屏蔽来电</string>
+	<key>LAST_SEEN</key>
+	<string>最后上线</string>
+	<key>DELIVERY_RECEIPTS</key>
+	<string>送达回执</string>
+	<key>ACTIVE_TOGGLES_LABEL</key>
+	<string>已启用开关</string>
+	<key>DISABLE_WHEN_PASSCODE_LOCKED_FOOTER</key>
+	<string>设备锁屏时禁止访问这些开关。</string>
+	<key>AUTO_REPLY</key>
+	<string>自动回复</string>
+	<key>TOGGLES_PAGE_TITLE</key>
+	<string>开关</string>
+	<key>HIDE_CHATS</key>
+	<string>隐藏聊天</string>
+	<key>RESPRING_BUTTON</key>
+	<string>注销 SpringBoard</string>
+	<key>DISABLE_WHEN_PASSCODE_LOCKED_LABEL</key>
+	<string>锁屏时禁用</string>
+	<key>DISABLE_INTERNET</key>
+	<string>禁用网络</string>
+	<key>READ_RECEIPTS</key>
+	<string>已读回执</string>
+	<key>RESPRING_FOOTER</key>
+	<string>应用更改需要执行一次注销 SpringBoard。</string>
+	<key>ACTIVE_SECTION_HEADER</key>
+	<string>已启用</string>
+	<key>DISABLED_SECTION_HEADER</key>
+	<string>已禁用</string>
+</dict>
+</plist>

@@ -1,0 +1,898 @@
+bundle,key,english,zh_hans,source
+Resources.bundle,SEND_TYPING_INDICATOR_BUTTON,Send Typing Indicator,发送输入状态,key_override
+Resources.bundle,CONTACTS_SPOOFING_PROFILE_PICTURE_HEADER,Profile Picture,头像,value_override
+Resources.bundle,AUTO_REPLY_MESSAGE_TYPE_WEB_PAGE,Web Page,网页,value_override
+Resources.bundle,CHATS_ADDONS_LABEL,Chats,聊天,value_override
+Resources.bundle,MESSAGE_SCHEDULER_MESSAGES_FOOTER,Red schedule means that it has been processed and not running anymore.,红色的定时项表示它已处理完成，不会再继续运行。,key_override
+Resources.bundle,FORCE_RECEIPTS_ON,Force Receipts on...,强制向以下对象发送已读回执...,key_override
+Resources.bundle,BROADCAST_MESSAGE_INDICATOR_LABEL,Broadcast Msg Indicator,广播消息标识,key_override
+Resources.bundle,NEVER_SEND_RECORDING_TO,Never Send Recording to...,绝不向以下对象发送录音状态...,key_override
+Resources.bundle,CONTACTS_SPOOFING_LABEL,Contacts Spoofing,联系人伪装,key_override
+Resources.bundle,CUSTOM,Custom,自定义,value_override
+Resources.bundle,STATUS_SHOW_STATUSES_ON_CHAT_LIST_LABEL,Statuses Bar in Chats List,聊天列表状态栏,key_override
+Resources.bundle,OTHER_ADDONS_LABEL,General,通用,value_override
+Resources.bundle,SHARE_SHEET_BUTTONS_LABEL,Sheet Buttons,面板按钮,value_override
+Resources.bundle,IMPORT_SETTINGS_INVALID_ZIP_FILE_MESSAGE,The selected file is not valid ZIP file,所选文件不是有效的 ZIP 文件。,key_override
+Resources.bundle,STATUS_KEEP_CONTACTS_DELETED_STATUSES_LABEL,Keep Contacts Deleted Statuses,保留联系人已删除的状态,key_override
+Resources.bundle,PROTECTION_LABEL,Protection,保护,key_override
+Resources.bundle,STATUS_ARCHIVE_DELETE_ALL_STATUSES_MESSAGE,Delete all archived statuses,删除所有归档状态,key_override
+Resources.bundle,CONTACT_NAME_SIZE_LABEL,Contact Name Size,联系人名称大小,key_override
+Resources.bundle,STATUS_DOWNLOAD_GIF_SHARE_AS_GIF,Share as GIF,分享为 GIF,key_override
+Resources.bundle,MANABE_TAGS_ORGANIZE_GROUPS_TAB_TITLE,Groups,群组,value_override
+Resources.bundle,AUTO_REPLY_TEXT_MATCHING_VALUE_MESSAGE_CONTAINS,Message Contains,消息包含,key_override
+Resources.bundle,STATUS_MOVE_VIEWED_TO_BOTTOM_LABEL,Move Viewed Statuses to Bottom,已查看状态置底,value_override
+Resources.bundle,MESSAGE_HISTORY_DELETED_BY_ADMIN,Deleted by Admin #name,已被管理员删除 #name,key_override
+Resources.bundle,DISABLE_VOIP_BLACKLIST_LABEL,Blocked Contacts,已屏蔽联系人,key_override
+Resources.bundle,DISABLE_VOIP_LABEL,Block Incoming Calls,屏蔽来电,key_override
+Resources.bundle,ADD_STICKERS_ALERT_TITLE,Add Sticker Pack,添加贴纸包,key_override
+Resources.bundle,HIDE_LAST_MESSAGE_ALL,All,全部,value_override
+Resources.bundle,HIDE_CHAT_CONTACT_PICTURE_LABEL,Hide Picture in Chats,在聊天中隐藏头像,key_override
+Resources.bundle,CHAT_LIST_FILTER_SECTION_HEADER,Filter,筛选,key_override
+Resources.bundle,CHAT_LIST_SORT_MESSAGE_DATE_ASC_TITLE,Message Date Asc,消息时间升序,key_override
+Resources.bundle,MORE_TWEAKS_ONLINENOTIFY_DESC,"View and track your contacts online status, messages and status receipts",查看并跟踪联系人的在线状态、消息和状态回执。,key_override
+Resources.bundle,FAVORITES_CONTROLLER_ADD_ALL_MESSAGE,Add all favorite contacts,添加所有收藏联系人,key_override
+Resources.bundle,STATUS_SPLIT_VIDEO_LIMIT_MESSAGE,Videos longer than 15 minutes are not supported,不支持超过 15 分钟的视频。,key_override
+Resources.bundle,CONTACT_ICON_NOTIFICATIONS_DESC,Replace WhatsApp Icon on notifications with your contact profile picture,将通知中的 WhatsApp 图标替换为联系人头像。,key_override
+Resources.bundle,KEYBOARD_STYLE_DEFAULT,Default,默认,value_override
+Resources.bundle,RESET_SETTINGS_FILES_FOOTER,Reset specific settings only,仅重置指定设置,key_override
+Resources.bundle,AUTO_REPLY_RECIPIENTS_UNKNOWN_CONTACTS,Unknown Contacts,未知联系人,key_override
+Resources.bundle,MEDIA_DELETE_BUTTON_DESC,Adds a new delete button in media gallery to delete all contact media at once.,在媒体图库中新增删除按钮，可一次删除该联系人的所有媒体。,key_override
+Resources.bundle,HIDE_SETTINGS_ALERT_MESSAGE,This will hide Watusi settings row from WhatsApp settings and make it accessible through a transparent button on top right of WhatsApp settings page,这会从 WhatsApp 设置页中隐藏 Watusi 设置入口，并改为通过设置页右上角的透明按钮访问。,key_override
+Resources.bundle,AUTO_REPLY_DELETE_CONFIRMATION_ALERT_MESSAGE,Delete Auto Reply,删除自动回复,value_override
+Resources.bundle,HIDE_CHAT_LIST_CONTACT_PICTURE_LABEL,Hide Pictures in Chat List,在聊天列表中隐藏头像,key_override
+Resources.bundle,HIDE_META_AI_FLOATING_BUTTON_LABEL,Hide Meta AI Floating Button,隐藏 Meta AI 悬浮按钮,key_override
+Resources.bundle,CONTACTS_SPOOFING_CONTACTS,Contacts,联系人,value_override
+Resources.bundle,AUTO_REPLY_TIME_RANGE_NO_RANGE,No Range,不限时段,value_override
+Resources.bundle,HELP_LABEL,Help,帮助,value_override
+Resources.bundle,AUTO_REPLY_DESC,"When enabled, whenever you receive a message from a chat, Watusi will go through your enabled auto replies to find matches. One or more Auto Reply can be sent if their configurations match the incoming message/sender.",启用后，每当你收到某个聊天的消息时，Watusi 会遍历所有已启用的自动回复规则并查找匹配项。只要规则配置与收到的消息或发送者匹配，就可以发送一条或多条自动回复。,key_override
+Resources.bundle,UNLIMITED_PINNED_CHATS_DESC,Pin more than 3 chats,置顶超过 3 个聊天。,key_override
+Resources.bundle,REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ADMIN_ALERT_MESSAGE,Message deleted by group admin #admin on #date,群管理员 #admin 于 #date 删除了这条消息,key_override
+Resources.bundle,FAVORITES_CONTROLLER_ADD_ALL_BUTTON,Add All,全部添加,key_override
+Resources.bundle,MORE_TWEAKS_STALKY_DESC,Track and store your contacts latest profile & statuses updates,跟踪并保存联系人最新的头像和状态更新。,key_override
+Resources.bundle,CHAT_DETAILS_VOICE,Voice,语音,value_override
+Resources.bundle,STATUS_TEXT_COPIED_TO_CLIPBOARD,Text Copied to Clipboard,文本已复制到剪贴板,key_override
+Resources.bundle,AUTO_REPLY_MESSAGE_HEADER,Reply With,回复内容,value_override
+Resources.bundle,IMPORT_SETTINGS_NOT_ALL_FILES_IMPORTED_MESSAGE,Some files were not imported because it was not a valid PLIST,部分文件未导入，因为它们不是有效的 PLIST。,key_override
+Resources.bundle,AUTO_REPLY_MESSAGE_TYPE_DOCUMENT,Document,文档,key_override
+Resources.bundle,HIDE_CHAT_BUTTONS_DESC,"Hide Camera, Recording and Stickers buttons in chats.",隐藏聊天中的相机、录音和贴纸按钮。,key_override
+Resources.bundle,STATUS_ARCHIVE_NO_ARCHIVED_STATUSES_MESSAGE,You did not post any statuses yet,你还没有发布过任何状态。,key_override
+Resources.bundle,SAVE_PROFILE_PHOTOS_DESC,Long press on profile photos to save them after WhatsApp removed their save button,在 WhatsApp 移除保存按钮后，长按头像即可保存。,key_override
+Resources.bundle,LOGIN_TO_PURCHASE_MESSAGE,You have to login with your account in order to purchase Watusi.,你需要先登录账号才能购买 Watusi。,key_override
+Resources.bundle,SENT_COLOR_LABEL,Sent Color,发送颜色,key_override
+Resources.bundle,STATUS_SHOW_STATUSES_MY_STATUS_ADD_MEDIA_STATUS,Add Media Status,添加媒体状态,key_override
+Resources.bundle,HOW_TO_ENABLE_CC_TOGGLES_CONTENT,"CCSupport package is required to load 3rd party modules into your Control Center, you can then go into your Control Center settings and add Watusi to your active toggles and customize the toggles in it.",需要安装 CCSupport 套件才能将第三方模块加载到控制中心。之后你可以前往控制中心设置，将 Watusi 添加到已启用开关中，并自定义其中的开关。,key_override
+Resources.bundle,CONTINUED_AUDIO_MESSAGES_HIDE_WHEN_STOPPED,Hide Audio Bar When Finished,播放结束后隐藏音频栏,key_override
+Resources.bundle,SHARE_SHEET_DESC,"Add more options to WhatsApp media sharing sheet such as sending latest photo in camera roll, music sharing, block/unblock contact.",在 WhatsApp 媒体分享面板中增加更多选项，例如发送相册最新照片、分享音乐、拉黑或取消拉黑联系人。,key_override
+Resources.bundle,SHARE_SHEET_POLL_BUTTON,Create Poll,创建投票,key_override
+Resources.bundle,PRIVATE_NOTIFICATION_MESSAGE_LABEL,Message,消息,value_override
+Resources.bundle,MESSAGE_SCHEDULER_ALERT_VIEW_SCHEDULED_MESSAGES,View Scheduled Messages,查看定时消息,key_override
+Resources.bundle,PRIVATE_NOTIFICATION_TITLE_LABEL,Title,标题,value_override
+Resources.bundle,CHAT_LIST_SORT_MESSAGE_DATE_DESC_TITLE,Default,默认,value_override
+Resources.bundle,STICKERS_MANAGER_LABEL,Stickers Manager,贴纸管理,key_override
+Resources.bundle,CHAT_DETAILS_AUDIO,Audio,音频,value_override
+Resources.bundle,DATE_BUBBLE_COLOR_LABEL,Date Bubble Color,日期气泡颜色,key_override
+Resources.bundle,ARCHIVE_LOCK_DESC,Long press on chats in archive view in order to lock into archived chats which means the locked chat will not move back into chats list when it receives a new message. You can manage locked chats from the top right button on archived chats view.,在归档列表中长按聊天即可将其锁定在归档中。被锁定的聊天即使收到新消息，也不会移回聊天列表。你可以通过归档页面右上角的按钮管理这些已锁定聊天。,key_override
+Resources.bundle,GENERATE_BROADCAST_LISTS_LABEL,Generate Broadcast Lists,生成广播列表,key_override
+Resources.bundle,STOP_HIDDEN_CHATS_OUTSIDE_NOTIF_LABEL,Hide System-Wide Notifications,隐藏系统级通知,key_override
+Resources.bundle,AUTO_REPLY_RECIPIENTS_NONE,None,无,value_override
+Resources.bundle,FORWARD_%zd_MESSAGE_TO_%zd_CONTACT,Forward %zd message to %zd contact.,将 %zd 条消息转发给 %zd 个联系人。,key_override
+Resources.bundle,TYPING_INDICATOR_BUTTON,Typing Indicator,输入状态指示,key_override
+Resources.bundle,TAP_TO_RECORD_LABEL,Tap To Record,点按录音,key_override
+Resources.bundle,STATUS_CONTACT_GROUPS_EMPTY_MESSAGE,"You don't have any contact groups yet, use the + button to create one.",你还没有任何联系人分组，请点击 + 按钮创建。,key_override
+Resources.bundle,LASTSEEN_AUTO_SWITCH_DESC,Auto set your Lastseen privacy to Nobody when WhatsApp enter background and set it back to 'My Contacts' when you open WhatsApp,当 WhatsApp 进入后台时，自动将“最后上线”隐私设置为“无人”，当你打开 WhatsApp 时再恢复为“我的联系人”。,key_override
+Resources.bundle,AUTO_REPLY_DELAY_ONE_HOUR_SHORT,1 hr,1 小时,key_override
+Resources.bundle,DISABLE_INTERNET_CONNECTION_DESC,Completely disable internet access inside WhatsApp so you won't be able to send/receive any messages and WhatsApp will not be able to send/receive any data to/from the server. You can also enable/disable this feature from your device Control Center.,彻底禁用 WhatsApp 内的网络访问，这样你将无法收发任何消息，WhatsApp 也无法向服务器收发任何数据。你也可以在设备控制中心中启用或关闭此功能。,key_override
+Resources.bundle,CHAT_DETAILS_DOCUMENT,Document,文档,value_override
+Resources.bundle,STATUS_CONTACT_GROUPS_ENTER_GROUP_NAME_MESSAGE,Enter group name,输入分组名称,key_override
+Resources.bundle,ARCHIVE_LOCK_UNLOCK_CONTEXT_MENU_BUTTON,Unlock from Archive,从归档中解锁,key_override
+Resources.bundle,CHAT_LIST_ACTIONS_LABEL,Chat List More Actions,聊天列表更多操作,key_override
+Resources.bundle,REDEEM_SUCCESSFULL_MESSAGE,Watusi license has been added to your account,Watusi 许可证已添加到你的账号,key_override
+Resources.bundle,CHAT_LIST_FILTER_GROUPS_TITLE,Groups,群组,key_override
+Resources.bundle,CONFIRM_SENDING_STICKER_LABEL,Confirm Sending Stickers,确认发送贴纸,key_override
+Resources.bundle,RESET_SETTINGS_CONFIRM_MESSAGE,"This will delete your current settings, you can't undo this action",这将删除你当前的设置，且无法撤销此操作。,key_override
+Resources.bundle,DEBUG_MENU,Debug Menu,调试菜单,key_override
+Resources.bundle,STATUS_SHOW_STATUSES_CONTACT_INFO_BUTTON,Contact Info,联系人信息,key_override
+Resources.bundle,GENERATE_BROADCAST_LISTS_ALERT_ACTION,Generate,生成,key_override
+Resources.bundle,MESSAGE_HISTORY_DELETED_FROM_LINKED_DEVICE,Deleted from Linked Device,已从已关联设备删除,key_override
+Resources.bundle,AUTO_REPLY_RECIPIENTS_SELECTED_CHATS_LABEL,Chats,聊天,value_override
+Resources.bundle,CHAT_LIST_SORT_NAME_ASC_SHORT_TITLE,Name ↓,名称 ↓,key_override
+Resources.bundle,AUTO_REPLY_MESSAGE_TYPE_GIF,GIF,GIF,value_override
+Resources.bundle,REDEEM_TITLE,Redeem,兑换,value_override
+Resources.bundle,ENABLE_LOCAL_NOTIFICATIONS_DESC,This will keep WhatsApp active in background in order to receive notifications but will increase your battery usage.,这会让 WhatsApp 在后台保持活跃以接收通知，但会增加电池消耗。,key_override
+Resources.bundle,STATUS_DOWNLOAD_VIDEO_SAVE_TO_LIBRARY,Save Video to Library,保存视频到相册,key_override
+Resources.bundle,EDIT,Edit,编辑,value_override
+Resources.bundle,CUSTOM_TONES_DOWNLOADING_ALERT_TITLE,Downloading...,下载中...,key_override
+Resources.bundle,STATUS_SPLIT_VIDEO_DESC,"When uploading a video to your status, WhatsApp allows only 30 seconds videos, this feature will automatically split longer videos into multiple statuses trimmed at the right time to be played consecutively.",上传状态视频时，WhatsApp 只允许 30 秒的视频。此功能会自动将较长视频按合适的时长切分为多个状态，以便连续播放。,key_override
+Resources.bundle,AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_CHAT_NAME_DESC,Replaced with contact name you saved or group subject,替换为你保存的联系人名称或群组标题。,key_override
+Resources.bundle,GENERATE_BROADCAST_LISTS_DESC,Adds a button in Broadcast Lists to automatically generate multiple lists from your WhatsApp contacts.,在“广播列表”中新增一个按钮，可根据你的 WhatsApp 联系人自动生成多个列表。,key_override
+Resources.bundle,AUTO_REPLY_MESSAGE_TYPE_STICKER,Sticker,贴纸,key_override
+Resources.bundle,CHAT_LIST_FILTER_CONTACTS_SHORT_TITLE,Contacts,联系人,value_override
+Resources.bundle,AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_MESSAGE_DATE_DESC,"Replaced with the received message date in the format of 1 Jan 2020, 1:20",替换为收到消息的日期，格式类似 2020 年 1 月 1 日 1:20。,key_override
+Resources.bundle,AUTO_REPLY_MESSAGE_WEB_REQUEST_RESPONSE_FORMAT_LABEL,Format,格式,value_override
+Resources.bundle,AUTO_REPLY_MESSAGE_TYPE_CONTACT,Contact,联系人,key_override
+Resources.bundle,AUTO_REPLY_LABEL,Auto Reply,自动回复,value_override
+Resources.bundle,MESSAGE_STATUS_FOOTER_SECTION_FOOTER,"Text next to timestamp, mainly for document bubble",时间戳旁边的文字，主要用于文档气泡。,key_override
+Resources.bundle,PRIVATE_NOTIFICATION_MESSAGE_PLACEHOLDER,Notification Message,通知内容,key_override
+Resources.bundle,SHARE_SHEET_WEB_IMAGE_PICKER_BUTTON,Share Image from Web,从网页分享图片,key_override
+Resources.bundle,OPEN_PICTURE_ON_TAP_DESC,This will open your contact profile picture when you tap on his thumbnail in Chat List or Favorites page.,在聊天列表或收藏页面点按联系人的头像缩略图时打开其头像。,key_override
+Resources.bundle,AUTO_REPLY_DELAY_LABEL,Delay Between Replies,回复间隔,key_override
+Resources.bundle,HIDE_LAST_MESSAGE_NONE,None,无,value_override
+Resources.bundle,TAP_TO_RECORD_DESC,Tap once to start voice recording and tap again to send or tap and slide to delete.,点按一次开始录制语音，再次点按即可发送，或点按后滑动以删除。,key_override
+Resources.bundle,CHAT_DETAILS_SECTION_DESC,Add a section inside contact and group info pages to view more details about the chat,在联系人和群组信息页中新增一个分区，用于查看更多聊天详情。,key_override
+Resources.bundle,UNBLOCK_CONTACT_MESSAGE,Tap 'Unblock' to start receiving messages from contact.,点按“取消拉黑”即可重新接收该联系人的消息。,key_override
+Resources.bundle,STATUS_SHOW_STATUSES_MY_STATUS_ADD_TEXT_STATUS,Add Text Status,添加文字状态,key_override
+Resources.bundle,AUTO_REPLY_EDIT_TEXT_MATCHING_TYPE_MESSAGE_CONTAINS,Message Contains,消息包含,key_override
+Resources.bundle,MESSAGE_SCHEDULER_MESSAGES_LABEL,Scheduled Messages,定时消息,value_override
+Resources.bundle,AUTO_REPLY_EDIT_NAME_PLACEHOLDER,Auto Reply Name,自动回复名称,key_override
+Resources.bundle,AUTO_REPLY_DELAY_ONE_MINUTE_SHORT,1 min,1 分,key_override
+Resources.bundle,STATUS_ADDONS_LABEL,Status,状态,key_override
+Resources.bundle,AUTO_REPLY_LIST_TITLE,Auto Replies,自动回复,value_override
+Resources.bundle,ABOUT_ON_CHATS_DESC,Show your contact about message on a little bar at the top of chat view,在聊天界面顶部的小栏中显示联系人的简介。,key_override
+Resources.bundle,LOCAL_NOTIFICATIONS_TYPE_AUDIO,Audio,音频,value_override
+Resources.bundle,IN_APP_BROWSER_DOMAINS_LIST_HEADER,Domains,域名,key_override
+Resources.bundle,MEDIA_FORWARD_BUTTON_DESC,Adds a new forward button on top of media browser in order to forward the media message to multiple contacts at once.,在媒体浏览器顶部新增转发按钮，可将媒体消息转发给多个联系人。,key_override
+Resources.bundle,STOP_HIDDEN_CHATS_IN_APP_NOTIF_LABEL,Hide In-App Notifications,隐藏应用内通知,key_override
+Resources.bundle,AUTO_REPLY_EDIT_TEXT_MATCHING_TYPE_MESSAGE_EQUALS,Message Contains,消息完全匹配,key_override
+Resources.bundle,FORCE_RECEIPTS_ON_TYPING_DESC,Read receipts will be sent when you start typing or recording a voice message,当你开始输入或录制语音消息时将发送已读回执。,key_override
+Resources.bundle,MESSAGE_FORWARD_BUTTON_TITLE,Forward,转发,key_override
+Resources.bundle,CHAT_DETAILS_LINKS,Links,链接,value_override
+Resources.bundle,SEND_RECORDING_INDICATOR_BUTTON,Send Recording Indicator,发送录音状态,key_override
+Resources.bundle,CHAT_PROTECTION_LABEL,Chat Protection,聊天保护,key_override
+Resources.bundle,PRIVATE_NOTIFICATION_FILTER_WHITELIST_LABEL,Whitelist,白名单,value_override
+Resources.bundle,STATUS_SHOW_STATUSES_MY_STATUS_PRIVACY,Privacy,隐私,value_override
+Resources.bundle,CHAT_LIST_SORT_NAME_DESC_TITLE,Chat Name Z-A,聊天名称 Z-A,key_override
+Resources.bundle,CHAT_DETAILS_IMAGE,Image,图片,value_override
+Resources.bundle,SHARE_SHEET_BLOCK_CONTACT_BUTTON,Block Contact,拉黑联系人,key_override
+Resources.bundle,HIDE_FREQUENTLY_CONTACTED_LABEL,Hide Frequently Contacted,隐藏常用联系人,key_override
+Resources.bundle,BATCH_DELETE_MESSAGES_DESC,Adds a delete button in chat edit toolbar to delete multiple messages at once,在聊天编辑工具栏中新增删除按钮，可一次删除多条消息。,key_override
+Resources.bundle,SHARE_SHEET_FULL_SCREENSHOT_ALERT_MESSAGE,"This will include only the newer messages from current position, you should scroll up to your starting position and then screenshot.",这只会包含从当前位置开始较新的消息，请先向上滚动到起始位置后再截图。,key_override
+Resources.bundle,CHAT_DETAILS_PROFILE_NAME,Profile Name,昵称,value_override
+Resources.bundle,AUTO_REPLY_EDIT_RECIPIENTS_LABEL,Recipients,接收对象,key_override
+Resources.bundle,DEFAULT,Default,默认,value_override
+Resources.bundle,UNHIDE_CHAT_ALERT_MESSAGE,Remove chat from Hidden Chats?,要将该聊天从“隐藏聊天”中移除吗？,key_override
+Resources.bundle,DISABLE_LANDSCAPE_LABEL,Disable Landscape,禁止横屏,key_override
+Resources.bundle,AUTO_REPLY_ENABLE_LABEL,Enable,启用,value_override
+Resources.bundle,INCREASE_FORWARD_CONTACTS_LIMIT_DESC,Increase the number of contacts limit when forwarding a message from 5 to 20. This used to allow forwarding a message to unlimited number of contacts but WhatsApp started checking that on their server and I disabled it to protect your account.,将转发消息时的联系人数量上限从 5 提高到 20。此前曾支持无限转发，但 WhatsApp 开始在服务端检查这一行为，我已禁用它以保护你的账号。,key_override
+Resources.bundle,DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_DESC,Open view once media unlimited times and mark as opened using a button in media view,允许无限次打开“一次查看”媒体，并通过媒体查看器中的按钮手动标记为已打开。,key_override
+Resources.bundle,CUSTOM_TONES_ERROR_IMPORT_ALERT_MESSAGE,File not supported,不支持的文件,key_override
+Resources.bundle,DISABLE_INTERNET_CONNECTION_LABEL,Disable Internet Access,禁止网络访问,key_override
+Resources.bundle,CONTINUED_AUDIO_MESSAGES_DESC,"When you're playing an audio message, you'll be able to go outside of the chat and keep on listening to the message. You'll also see a little bar on top of the chats and the chats list in which you can control the audio message.",播放语音消息时，你可以离开当前聊天继续收听。聊天页和聊天列表顶部还会显示一个小条，用于控制该语音消息。,key_override
+Resources.bundle,AUTO_REPLY_TIME_RANGE_ENABLE_LABEL,Enable Time Range,启用时间范围,key_override
+Resources.bundle,GENERATE_BROADCAST_LISTS_ALERT_TITLE,Generate Broadcast Lists,生成广播列表,key_override
+Resources.bundle,DISABLE_DELIVERY_RECEIPTS_LABEL,Disable Delivery Receipts,禁用送达回执,key_override
+Resources.bundle,FORCE_RECEIPTS_ON_REPLY_DESC,Read receipts will be sent when you send a message,当你发送消息时将发送已读回执。,key_override
+Resources.bundle,TWEET_FOR_2_DAYS_AD_FREE_BUTTON,Tweet for 2 days ad-free,发推可获 2 天无广告,key_override
+Resources.bundle,UPDATE_WITH_CONTROL_CENTER_TOGGLES_DESC,"By default, Control Center toggle reads and updates the settings of main WhatsApp app, enable this option if you want to update this app's settings with the Control Center toggle.",默认情况下，控制中心开关会读取并更新主 WhatsApp 应用的设置。如果你希望通过控制中心开关更新此应用的设置，请启用此选项。,key_override
+Resources.bundle,DELETE_APP_PASSCODE,Delete App Passcode,删除应用密码,key_override
+Resources.bundle,CUSTOM_TONES_RENAME_ALERT_FIELD_PLACEHOLDER,Filename,文件名,value_override
+Resources.bundle,RESET_SETTINGS_BUTTON,Reset,重置,key_override
+Resources.bundle,CHECK_FOR_UPDATES_BUTTON,Check for Update,检查更新,key_override
+Resources.bundle,RESET_SETTINGS_LABEL,Reset Settings,重置设置,key_override
+Resources.bundle,AUTO_REPLY_EDIT_TEXT_MATCHING_LABEL,Text Matching,文本匹配,key_override
+Resources.bundle,SHARE_SHEET_STYLE,Style,样式,value_override
+Resources.bundle,UPDATES_SECTION_TITLE,Updates,更新,value_override
+Resources.bundle,CUSTOM_TONES_DOWNLOAD_ALERT_FIELD_PLACEHOLDER,File URL,文件 URL,value_override
+Resources.bundle,AUTO_REPLY_RECIPIENTS_ALL_GROUPS_EXCEPT,Groups Except,除以下外的所有群组,key_override
+Resources.bundle,SHARE_SHEET_STYLE_DEFAULT,Default,默认,value_override
+Resources.bundle,MANAGE_TABS_ORGANIZE_DISABLED_SECTION_HEADER,Disabled,已禁用,value_override
+Resources.bundle,THEME_CHATS_SECTION_TITLE,Chats,聊天,value_override
+Resources.bundle,CHAT_PROTECTION_USE_FACE_ID,Use Face ID,使用 Face ID,value_override
+Resources.bundle,STATUS_ARCHIVE_VIEWERS_DELETE_STATUS_BUTTON,Delete Status,删除状态,key_override
+Resources.bundle,ARCHIVE_LOCK_LOCK_BUTTON,Lock,锁定,value_override
+Resources.bundle,BLOCK_CONTACT,Block Contact,拉黑联系人,value_override
+Resources.bundle,EXPORT_SETTINGS_FILE_NOT_FOUND_MESSAGE,Settings file not found or no settings saved so far,未找到设置文件，或目前尚未保存任何设置。,key_override
+Resources.bundle,DISABLE_LARGE_EMOJI_LABEL,Disable Large Emoji,禁用大号表情,key_override
+Resources.bundle,PRIVATE_NOTIFICATION_FILTER_BLACKLIST_LABEL,Blacklist,黑名单,value_override
+Resources.bundle,AUTO_REPLY_DELAY_CUSTOM_MINUTES_PLACEHOLDER,Minutes,分钟,key_override
+Resources.bundle,STATUS_ARCHIVE_LABEL,My Statuses Archive,我的状态归档,key_override
+Resources.bundle,STATUS_CAPTION_COPIED_TO_CLIPBOARD,Caption Copied to Clipboard,说明文字已复制到剪贴板,key_override
+Resources.bundle,AUTO_REPLY_MESSAGE_WEB_URL_LABEL,Web URL,网页 URL,key_override
+Resources.bundle,TO,to,至,key_override
+Resources.bundle,HIDE_CHAT_CALL_BUTTONS_DESC,Hide call buttons from the chats.,隐藏聊天中的通话按钮。,key_override
+Resources.bundle,CLEAR_BROADCAST_ALERT_MESSAGE,Clear broadcast chat history,清空广播聊天记录,key_override
+Resources.bundle,FREEZE_LASTSEEN_DESC,You will not be shown online and your last seen will not be updated when you open WhatsApp,打开 WhatsApp 时，你不会显示为在线，最后上线时间也不会更新。,key_override
+Resources.bundle,CHAT_LIST_FILTER_ALL_SHORT_TITLE,All,全部,value_override
+Resources.bundle,MY_NUMBER,My Number:,我的号码：,key_override
+Resources.bundle,SHOW_REACTIONS_DATE_DESC,View message reactions date,查看消息回应的时间。,key_override
+Resources.bundle,GROUPS_LIST_LABEL,Groups List,群组列表,key_override
+Resources.bundle,SHARE_SHEET_SHARE_MUSIC_BUTTON,Share Music,分享音乐,value_override
+Resources.bundle,BARS_BACKGROUND_COLOR_LABEL,Bars Background Color,栏背景颜色,key_override
+Resources.bundle,IN_APP_BROWSER_ADD_DOMAIN_LABEL,Add Domain,添加域名,key_override
+Resources.bundle,UNLIMITED_PINNED_CHATS_LABEL,Unlimited Pinned Chats,无限置顶聊天,key_override
+Resources.bundle,BLOCK,Block,拉黑,key_override
+Resources.bundle,MESSAGE_SCHEDULER_SHOW_NOTIFICATION_LABEL,Show Notification,显示通知,key_override
+Resources.bundle,ALLOW_VIEW_ONCE_SCREENSHOT_LABEL,Screenshot & Record View Once,截图并录制“一次查看”,key_override
+Resources.bundle,UNBLOCK,Unblock,取消拉黑,key_override
+Resources.bundle,ARCHIVE_LOCK_TABLE_TITLE,Locked in Archive,已锁定在归档中,key_override
+Resources.bundle,BLACKLIST,Blacklist,黑名单,value_override
+Resources.bundle,CONTACTS_SPOOFING_FIRST_NAME_PLACEHOLDER,First Name,名,key_override
+Resources.bundle,LOADING_STICKER_PACKS_LABEL,Loading Sticker Packs...,正在加载贴纸包...,key_override
+Resources.bundle,HIDE_LAST_MESSAGE_LOCKED,Locked,已锁定,key_override
+Resources.bundle,DISABLE_MARK_VIEW_ONCE_MEDIA_OPENED_LABEL,Manually Mark View Once Opened,手动标记“一次查看”为已打开,key_override
+Resources.bundle,HOW_TO_REMOVE_ADS,How to remove Ads,如何去除广告,key_override
+Resources.bundle,SHARE_SHEET_LABEL,Sharing Sheet,分享面板,key_override
+Resources.bundle,AUTO_REPLY_MESSAGE_SOURCE_LOCAL,Local,本地,key_override
+Resources.bundle,IMPORT_NEW_THEME_ACTION_BUTTON,Import Theme from Files,从文件导入主题,key_override
+Resources.bundle,HOW_TO_REMOVE_ADS_TITLE,How to remove advertisments?,如何去除广告？,key_override
+Resources.bundle,HIDE_SEPARATOR_LABEL,Hide Separators,隐藏分隔线,key_override
+Resources.bundle,CHAT_LIST_SORT_NAME_ASC_TITLE,Chat Name A-Z,聊天名称 A-Z,key_override
+Resources.bundle,STATUS_SPLIT_VIDEO_LABEL,Split Long Videos,拆分长视频,key_override
+Resources.bundle,CONTACT_SUPPORT_LABEL,Contact Support,联系支持,key_override
+Resources.bundle,ARCHIVE_LOCK_LOCK_TITLE,Lock Chat,锁定聊天,key_override
+Resources.bundle,RECEIVED_BUBBLE_OPACITY_LABEL,Received Bubble Opacity,接收气泡不透明度,key_override
+Resources.bundle,HOW_TO_ENABLE_CC_TOGGLES_TITLE,How to enable Control Center toggles?,如何启用控制中心开关？,key_override
+Resources.bundle,AUTO_REPLY_RECIPIENTS_CONTACTS,Contacts,联系人,value_override
+Resources.bundle,ADD_STICKERS_ALERT_CREATE_STICKER_PACK,Create Sticker Pack,创建贴纸包,key_override
+Resources.bundle,DISABLE_DELIVERY_RECEIPTS_DESC,Your contacts will not see that you received their messages. It will show only one check.,你的联系人将看不到你已收到他们的消息，消息只会显示一个勾。,key_override
+Resources.bundle,ADD_STICKERS_IMPORT_ZIP_FROM_URL,Import ZIP from URL,通过 URL 导入 ZIP,key_override
+Resources.bundle,STATUS_CONTACT_GROUPS_LABEL,Show Contact Groups,显示联系人分组,key_override
+Resources.bundle,ARCHIVE_LOCK_LOCK_MESSGAE,"If you receive new messages from this chat, it will not move back to Chats list.",如果此聊天收到新消息，它不会移回聊天列表。,key_override
+Resources.bundle,CUSTOM_TONES_CELL_INVALID_FILE,Invalid File,无效文件,value_override
+Resources.bundle,CONTACTS_SPOOFING_LAST_NAME_PLACEHOLDER,Last Name,姓,key_override
+Resources.bundle,CHAT_LIST_SORT_NAME_DESC_SHORT_TITLE,Name ↑,名称 ↑,key_override
+Resources.bundle,SWIPE_TO_DELETE_LABEL,Swipe To Delete Chat,滑动删除聊天,key_override
+Resources.bundle,SHARE_SHEET_SHARE_DOCUMENT_BUTTON,Share Document,分享文档,value_override
+Resources.bundle,AUTO_REPLY_DELETE_REPLY_BUTTON,Delete Auto Reply,删除自动回复,key_override
+Resources.bundle,CHAT_DETAILS_SECTION_TITLE,Chat Details,聊天详情,key_override
+Resources.bundle,STATUS_ARCHIVE_NAVIGATION_BUTTON,Archive,归档,key_override
+Resources.bundle,EXPORT_AUDIO_MESSAGES_LABEL,Export Audio Messages,导出音频消息,key_override
+Resources.bundle,READ_COLOR_LABEL,Read Color,已读颜色,key_override
+Resources.bundle,HIDE_CHATS_LABEL,Hide Chats,隐藏聊天,value_override
+Resources.bundle,SHARE_SHEET_VIDEO_LIBRARY_BUTTON,Video Library,视频库,value_override
+Resources.bundle,HIDE_CHATS_CHAT_LIST_ACCESS_DESC,Add a long press gesture to Chat's List compose button to access hidden chats messages,在聊天列表的撰写按钮上增加长按手势，以访问隐藏聊天消息。,key_override
+Resources.bundle,UNABLE_TO_SEND_RECEIVE_MESSAGES_TITLE,Unable to send and receive messages?,无法收发消息？,key_override
+Resources.bundle,CHAT_LIST_FILTER_UNREAD_TITLE,Unread,未读,value_override
+Resources.bundle,MANAGE_TABS_ORGANIZE_RESET_DEFAULTS_BUTTON,Reset Defaults,恢复默认,key_override
+Resources.bundle,REDEEM_FAILED_TITLE,Redeem Failed,兑换失败,key_override
+Resources.bundle,CUSTOM_TONES_RENAME_ALERT_MESSAGE,Enter a new filename,输入新的文件名,key_override
+Resources.bundle,MORE_TWEAKS_DESC,"These tweaks are separate from Watusi but merged together in a single IPA for non-jailbroken devices.
+
+Each tweak might require a specific license in order to be activated or to remove ads.","这些 tweak 独立于 Watusi，但在非越狱设备上会合并到同一个 IPA 中。
+
+每个 tweak 可能都需要单独的许可证才能激活或去除广告。",key_override
+Resources.bundle,LOGIN_OR_REGISTER,Login or Register,登录或注册,key_override
+Resources.bundle,GENERATE_BROADCAST_LISTS_BUTTON_TITLE,Generate Lists,生成列表,key_override
+Resources.bundle,GROUPS_LIST_DESC,Adds a navigation bar button to open a list of all your groups.,在导航栏中新增一个按钮，用于打开你的所有群组列表。,key_override
+Resources.bundle,EXPORT,Export,导出,value_override
+Resources.bundle,HOW_TO_REMOVE_ADS_CONTENT,"You have to go into Watusi settings > Accounts & Ad Removal > Create/Login with your account, and you'll see an option to purchase a license which will remove the advertisments.",前往 Watusi 设置 > Accounts & Ad Removal > 创建/登录账号，然后你会看到购买许可证的选项，购买后即可去除广告。,key_override
+Resources.bundle,REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_DESC,Messages that your contacts delete for everyone will not be deleted from your device and will show an icon to indicate that your contact has revoked it.,联系人“删除所有人”的消息不会从你的设备中删除，并会显示一个图标表示该联系人已撤回该消息。,key_override
+Resources.bundle,AUTO_REPLY_MESSAGE_TYPE_VIDEO,Video,视频,key_override
+Resources.bundle,SHOW_SECONDS_DESC,Added seconds to lastseen/messages and other date strings in WhatsApp,在 WhatsApp 的最后上线、消息时间及其他日期字符串中显示秒数。,key_override
+Resources.bundle,AUTO_REPLY_MESSAGE_WEB_REQUEST_POST_DATA_HEADER,Request Post Data,请求 POST 数据,key_override
+Resources.bundle,AUTO_REPLY_EDIT_TEXT_MATCHING_CASE_INSENSITIVE_MATCH_DESC,Treat upper- and lowercase letters as being the same,匹配时忽略大小写。,key_override
+Resources.bundle,MANAGE_TABS_ENABLE_LABEL,Manage Tab Bar,管理标签栏,key_override
+Resources.bundle,MESSAGE_SCHEDULER_ALERT_SCHEDULE_MESSAGE,Schedule Message,定时发送消息,key_override
+Resources.bundle,ARCHIVE_LOCK_UNLOCK_MESSAGE,"When a new message is received, the chat will move back to chats list.",收到新消息时，此聊天将移回聊天列表。,key_override
+Resources.bundle,STATUS_TEXT_SHARE_TEXT,Share Text,分享文本,key_override
+Resources.bundle,SENT_BUBBLE_BACKGROUND_LABEL,Sent Bubble Background,发送气泡背景,key_override
+Resources.bundle,CHAT_DETAILS_ALL_RECEIVED_MESSAGES_HEADER,Received Messages,收到的消息,key_override
+Resources.bundle,CHAT_DETAILS_ALL_MESSAGES,All Messages,全部消息,key_override
+Resources.bundle,ARCHIVE_LOCK_MUTE_LABEL,Mute Locked Chats Notifications,静音已锁定聊天的通知,key_override
+Resources.bundle,BROADCAST_MESSAGE_INDICATOR_DESC,"Adds an icon next to contacts' messages that are sent to you via broadcast, to help you differentiate it from messages that are directly sent just to you.",在联系人通过广播发送给你的消息旁新增一个图标，帮助你区分它与仅发送给你的普通消息。,key_override
+Resources.bundle,STATUS_DOWNLOAD_GIF_SHARE_AS_VIDEO,Share as Video,分享为视频,key_override
+Resources.bundle,GENERATE_BROADCAST_LISTS_ALERT_MESSAGE,This will automatically create multiple broadcast lists with 256 contacts in each from your WhatsApp contacts,这将根据你的 WhatsApp 联系人自动创建多个广播列表，每个列表包含 256 个联系人。,key_override
+Resources.bundle,SHARE_SHEET_PHOTOVIDEO_LIBRARY_BUTTON,Photo/Video Library,照片/视频库,key_override
+Resources.bundle,%zd_CONTACTS,%zd Contacts,%zd 个联系人,key_override
+Resources.bundle,DEVELOPER_SECTION_HEADER,Developer,开发者,key_override
+Resources.bundle,SHARE_SHEET_BLOCK_UNBLOCK_BUTTON,Block/Unblock Contact,拉黑/取消拉黑联系人,key_override
+Resources.bundle,SWIPE_FOR_CONTACT_INFO_LABEL,Swipe for Contact Info,右滑查看联系人信息,key_override
+Resources.bundle,CALL_CONFIRM_LABEL,Call Confirm,通话确认,key_override
+Resources.bundle,STATUS_ARCHIVE_EXPORT_BUTTON,Export,导出,value_override
+Resources.bundle,MESSAGE_HISTORY_EDITED_DATE,Edited on #date,编辑于 #date,key_override
+Resources.bundle,READ_RECEIPTS_BUTTON,Read Receipts,已读回执,value_override
+Resources.bundle,AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_DESC,Tags can be included in a message text to be replaced with its corresponding value,可在消息文本中插入标签，发送时会替换为对应的值。,key_override
+Resources.bundle,HIDE_META_AI_FLOATING_BUTTON_DESC,Remove the floating meta AI button from the chats list,移除聊天列表中的 Meta AI 悬浮按钮。,key_override
+Resources.bundle,STATUS_HIDE_TABBAR_BADGES_LABEL,Hide Status Badges,隐藏状态徽标,key_override
+Resources.bundle,ALL_SECTION_SHORT_TITLE,All,全部,value_override
+Resources.bundle,MANAGE_TABS_ORGANIZE_LABEL,Tab Bar Items,标签栏项目,key_override
+Resources.bundle,PHOTO_LIBRARY_DOCUMENT_CHOOSE_FILENAME_MESSAGE,Choose file name,选择文件名,key_override
+Resources.bundle,AUTO_REPLY_MESSAGE_LABEL,Message,消息,value_override
+Resources.bundle,NOTIFICATIONS_LABEL,Notifications,通知,value_override
+Resources.bundle,MESSAGE_SCHEDULER_CREATE_MESSAGE,Message,消息,value_override
+Resources.bundle,CHAT_LIST_ACTIONS_CLEAR_SELECTED_CHATS,Clear Selected Chats,清空已选聊天,key_override
+Resources.bundle,IPAD_FULLSCREEN_MODE_DESC,Open WhatsApp in fullscreen just like any other iPad-compatible app.,像其他兼容 iPad 的应用一样，以全屏方式打开 WhatsApp。,key_override
+Resources.bundle,LASTSEEN_AUTO_SWITCH_LABEL,Lastseen Privacy Auto switch,最后上线隐私自动切换,key_override
+Resources.bundle,ARCHIVE_LOCK_LABEL,Archive Lock,归档锁定,key_override
+Resources.bundle,DISABLE_READ_RECEIPTS_LABEL,Disable Read Receipts,禁用已读回执,key_override
+Resources.bundle,CHAT_DETAILS_TEXT,Text,文本,value_override
+Resources.bundle,AUTO_REPLY_RECIPIENTS_ALL_CHATS_EXCEPT,All Chats Except,除以下外的所有聊天,key_override
+Resources.bundle,REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_LABEL,Keep Contacts Deleted Messages,保留联系人已删除的消息,key_override
+Resources.bundle,AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_MESSAGE_TEXT_DESC,Replaced with the received message,替换为收到的消息内容。,key_override
+Resources.bundle,DOWNLOAD,Download,下载,value_override
+Resources.bundle,IMPORT_SETTINGS_BUTTON,Import,导入,value_override
+Resources.bundle,WHATSAPP_VOICE_CALL_BUTTON,WhatsApp Voice Call,WhatsApp 语音通话,key_override
+Resources.bundle,IN_APP_BROWSER_DESC,Open web urls inside WhatsApp instead of switching to safari. Allowed Domains will not open in-app but will redirect to their corresponding app if exists or safari.,在 WhatsApp 内打开网页链接，而不是跳转到 Safari。允许的域名不会在应用内打开，而是会跳转到对应的 App（如存在）或 Safari。,key_override
+Resources.bundle,NEW_THEME_ALERT_PLACEHOLDER,Theme,主题,value_override
+Resources.bundle,HIDE_HIDDEN_CHATS_STATUSES_LABEL,Hide Statuses,隐藏状态,key_override
+Resources.bundle,STICKERS_NO_STICKERS_TITLE,No Stickers,暂无贴纸,key_override
+Resources.bundle,CONTACTS_SPOOFING_NAME_HEADER,Name,名称,value_override
+Resources.bundle,START_VOICE_CALL_WITH,Start voice call with,向以下对象发起语音通话,key_override
+Resources.bundle,HIDE_MUTED_BADGES_DESC,Hide WhatsApp badges for muted chats & groups.,隐藏已静音聊天和群组的 WhatsApp 徽标。,key_override
+Resources.bundle,SHARE_SHEET_FULL_SCREENSHOT_ALERT_BUTTON,Screenshot,截图,key_override
+Resources.bundle,FAVORITES_CONTROLLER_DELETE_ALL_MESSAGE,Delete all favorite contacts,删除所有收藏联系人,key_override
+Resources.bundle,SELECT_ALL,Select All,全选,value_override
+Resources.bundle,CHAT_PROTECTION_LOCKED_CHATS,Locked Chats,已锁定聊天,key_override
+Resources.bundle,SHARE_SHEET_PAYMENT_BUTTON,Send Payment,发送付款,key_override
+Resources.bundle,CUSTOM_TONES_DOWNLOAD_ALERT_MESSAGE,Enter an audio file URL,输入音频文件 URL,key_override
+Resources.bundle,MESSAGE_FORWARD_DESC,Adds a new forward button to chat edit toolbar which is used to forward multiple messages to more than one contact at a time.,在聊天编辑工具栏中新增转发按钮，用于将多条消息一次转发给多个联系人。,key_override
+Resources.bundle,MEDIA_DELETE_ALERT_MESSAGE,Delete all media,删除所有媒体,key_override
+Resources.bundle,PROTECT_HIDDEN_CHATS_SETTINGS,Protect Hidden Chats Settings,保护隐藏聊天设置,key_override
+Resources.bundle,BYPASS_STARRED_MESSAGES_PROTECTION_LABEL,Bypass Starred Msgs Protection,绕过星标消息保护,key_override
+Resources.bundle,CHAT_DETAILS_INF_HEADER,Info,信息,value_override
+Resources.bundle,SAVE_EDITED_MESSAGES_HISTORY_DESC,Save message history when a message is edited,在消息被编辑时保存消息历史。,key_override
+Resources.bundle,FONT_NAME_LABEL,Font Name,字体名称,key_override
+Resources.bundle,EXPORT_SETTINGS_LABEL,Export Settings,导出设置,key_override
+Resources.bundle,AUTO_REPLY_MESSAGE_REPLY_MESSAGE_DESC,The message that will be auto replied,将自动回复的消息内容。,key_override
+Resources.bundle,CONFIRM_SENDING_STICKER_CONFIRMATION_BUTTON,Send Sticker,发送贴纸,key_override
+Resources.bundle,ENABLE_LOCAL_NOTIFICATIONS_LABEL,Enable Local Notifications,启用本地通知,key_override
+Resources.bundle,MEDIA_LINKS_DELETE_ALERT_MESSAGE,Delete all links,删除所有链接,key_override
+Resources.bundle,OPACITY_LABEL,Opacity,不透明度,key_override
+Resources.bundle,AUTO_REPLY_EDIT_MESSAGE_TYPE_LABEL,Message Type,消息类型,key_override
+Resources.bundle,CHAT_LIST_SORT_MESSAGE_DATE_DESC_SHORT_TITLE,Default,默认,value_override
+Resources.bundle,STATUS_CONTACT_GROUPS_EXPORT_BUTTON,Export,导出,value_override
+Resources.bundle,HIDDEN_CHATS,Hidden Chats,隐藏聊天,key_override
+Resources.bundle,CANCEL,Cancel,取消,value_override
+Resources.bundle,THEMES_SECTION_HEADER,Themes,主题,value_override
+Resources.bundle,AUTO_SHOW_KEYBOARD_LABEL,Show Keyboard,显示键盘,key_override
+Resources.bundle,START_GROUP_VIDEO_CALL_WITH,Start group video call,发起群组视频通话,key_override
+Resources.bundle,MANAGE_TABS_DESC,Reorder and remove default WhatsApp tabs or add custom ones,重新排序或移除默认 WhatsApp 标签，也可以添加自定义标签。,key_override
+Resources.bundle,MORE,More,更多,key_override
+Resources.bundle,STATUS_DISABLE_AUTO_ADVANCE_DESC,Disable auto advance to next status.,禁止自动切换到下一个状态。,key_override
+Resources.bundle,CHAT_PROTECTION_USE_TOUCH_ID,Use Touch ID,使用 Touch ID,value_override
+Resources.bundle,CONTACTS_SPOOFING_ABOUT_PLACEHOLDER,About Text,简介文本,key_override
+Resources.bundle,RELAUNCH_MESSAGE,WhatsApp needs to relaunch in order to apply changes,WhatsApp 需要重新启动以应用更改。,key_override
+Resources.bundle,CONTRIBUTE_LABEL,Contribute,参与贡献,key_override
+Resources.bundle,MESSAGE_SCHEDULER_CREATE_IMAGE,Image,图片,value_override
+Resources.bundle,CHAT_LIST_ACTIONS_CLEAR_BUTTON,Clear,清空,value_override
+Resources.bundle,SAVE_EDITED_MESSAGES_HISTORY_LABEL,Keep Edited Messages History,保留已编辑消息历史,key_override
+Resources.bundle,ENTER_PROMO_CODE_MESSAGE,Enter your promo code,输入你的优惠码,key_override
+Resources.bundle,REDEEM_FAILED_WRONG_CODE_MESSAGE,Invalid Promo Code,无效的优惠码,key_override
+Resources.bundle,AUTO_REPLY_MESSAGE_TYPE_AUDIO,Audio,音频,value_override
+Resources.bundle,SHARE_SHEET_SHARE_LOCATION_BUTTON,Share Location,分享位置,key_override
+Resources.bundle,CANT_VIEW_CONTACTS_LASTSEEN_TITLE,Why I can't see my contacts last seen?,为什么我看不到联系人的最后上线？,key_override
+Resources.bundle,CUSTOM_TONES_RENAME_ALERT_TITLE,Rename,重命名,value_override
+Resources.bundle,SWIPE_TO_DELETE_BUTTON,Swipe to Delete Chat,滑动删除聊天,key_override
+Resources.bundle,AUTO_REPLY_MESSAGE_WEB_URL_DESC,The web URL from which the text message will be requested,用于请求文本消息的网页 URL。,key_override
+Resources.bundle,HIDE_CALL_MUTE_LABEL,Hide Muted Call,隐藏通话静音状态,key_override
+Resources.bundle,SHARE_SHEET_DISABLED_LABEL,Disabled,已禁用,value_override
+Resources.bundle,FAVORITES_CONTROLLER_DELETE_ALL_BUTTON,Delete All,全部删除,key_override
+Resources.bundle,USE_FACE_ID,Use Face ID,使用 Face ID,value_override
+Resources.bundle,CONTINUED_AUDIO_MESSAGES_VOICE_TITLE,Voice Message,语音消息,key_override
+Resources.bundle,UNBLOCK_CONTACT,Unblock Contact,取消拉黑联系人,key_override
+Resources.bundle,AUTO_REPLY_RECIPIENTS_ALL_CONTACTS_EXCEPT,Contacts Except,除以下外的所有联系人,key_override
+Resources.bundle,CHATS_MESSAGES_STATUS_ITEMS_LABEL,Message Status Items,消息状态项目,key_override
+Resources.bundle,READ_RECEIPTS_DESC,Disable read receipts but still see your contacts receipts. You can still enable/disable read receipts for specific contacts from force/never lists or by selecting it on their profile.,禁用已读回执的同时仍可查看联系人的已读回执。你仍可通过强制/禁止列表或在联系人资料页中，为特定联系人启用或禁用已读回执。,key_override
+Resources.bundle,STATUS_ARCHIVE_DROPDOWN_ALL_STATUSES,All Statuses,所有状态,key_override
+Resources.bundle,MESSAGE_HISTORY_ALERT_TITLE,Message History,消息历史,key_override
+Resources.bundle,MANABE_TAGS_ORGANIZE_CALLS_TAB_TITLE,Calls,通话,key_override
+Resources.bundle,CHAT_LIST_ACTIONS_DESELECT_ALL,Deselect All,取消全选,key_override
+Resources.bundle,CHAT_DETAILS_ALL_MESSAGES_FOOTER,Media messages are of type Image/Video/Audio/GIF,媒体消息类型包括图片/视频/音频/GIF。,key_override
+Resources.bundle,AUTO_REPLY_MESSAGE_TYPE_IMAGE,Image,图片,value_override
+Resources.bundle,STATUS_ARCHIVE_USER_DID_NOT_VIEW_MESSAGE,%@ did not view any of your statuses,%@ 未查看你的任何状态,key_override
+Resources.bundle,MESSAGE_SCHEDULER_CREATE_DATE_TIME,Date & Time,日期与时间,key_override
+Resources.bundle,SAVE_VIEW_ONCE_MEDIA_LABEL,Save View Once Media,保存“一次查看”媒体,key_override
+Resources.bundle,STATUS_SHOW_STATUSES_MY_STATUS_ARCHIVE,Archive,归档,value_override
+Resources.bundle,GROUP_EVENT_COLOR_LABEL,Group Event Color,群组事件颜色,key_override
+Resources.bundle,THEME_FILE_IMPORT_FAILED_MESSAGE,The file must be a valid plist,该文件必须是有效的 plist,key_override
+Resources.bundle,STATUS_CONTACT_GROUPS_GROUP_NAME_PLACEHOLDER,Group Name,分组名称,key_override
+Resources.bundle,MAX_DEVICES_CONTENT,"You can use your account on 3 WhatsApp applications at the same time, you can manage your devices from your account page.",你的账号最多可同时在 3 个 WhatsApp 应用上使用，你可以在账号页面管理这些设备。,key_override
+Resources.bundle,PUBLISH,Publish,发布,key_override
+Resources.bundle,SWIPE_TO_DELETE_MESSAGE,Delete Chat,删除聊天,key_override
+Resources.bundle,PRIVACY_LABEL,Privacy,隐私,value_override
+Resources.bundle,LOGOUT,Logout,退出登录,key_override
+Resources.bundle,AUTO_REPLY_MESSAGE_SOURCE_DESC,Source of the reply message,回复消息的来源。,key_override
+Resources.bundle,MESSAGE_SCHEDULER_CREATE_NAME,Name,名称,value_override
+Resources.bundle,OLD_VERSION_ALERT,"Watusi supports latest WhatsApp version, please update WhatsApp from the AppStore.",Watusi 支持最新版本的 WhatsApp，请从 App Store 更新 WhatsApp。,key_override
+Resources.bundle,ENABLE_HIDE_CHATS,Enable,启用,value_override
+Resources.bundle,CLEAR_ALL_CHATS_DESCRIPTION,Clear all chats content including archived,清空所有聊天内容，包括已归档聊天。,key_override
+Resources.bundle,RENAME,Rename,重命名,value_override
+Resources.bundle,STATUS_ARCHIVE_VIEW_LABEL,View Archive,查看归档,key_override
+Resources.bundle,APP_PROTECTION_LABEL,App Protection,应用保护,key_override
+Resources.bundle,OPEN_PICTURE_ON_TAP_LABEL,Open Picture on Tap,点按打开头像,key_override
+Resources.bundle,BLOCK_CONTACT_MESSAGE,Tap 'Block' to stop receiving messages from contact.,点按“拉黑”即可停止接收该联系人的消息。,key_override
+Resources.bundle,IMPORT_SETTINGS_ALL_DATA_FOOTER,Only a ZIP file containing the settings PLIST files can be imported,只能导入包含设置 PLIST 文件的 ZIP 文件。,key_override
+Resources.bundle,STATUS_ARCHIVE_VIEWERS_DELETED_ON_TEXT,You deleted it on,你已于,key_override
+Resources.bundle,AUTO_REPLY_EDIT_TEXT_MATCHING_ADD_MATCHING_TEXT,Add Matching Text,添加匹配文本,key_override
+Resources.bundle,STATUS_DOWNLOAD_VIDEO_SHARE,Share Video,分享视频,key_override
+Resources.bundle,CHAT_LIST_ACTIONS_SELECT_ALL,Select All,全选,value_override
+Resources.bundle,AUTO_REPLY_MESSAGE_REPLY_MESSAGE_LABEL,Reply Message,回复消息,key_override
+Resources.bundle,STATUS_SHOW_STATUSES_HIDE_MUTED_LABEL,Hide Muted Statuses,隐藏已静音状态,key_override
+Resources.bundle,MEDIA_FORWARD_MESSAGE_TO_%zd_CONTACT,Forward media to %zd contact,将媒体转发给 %zd 个联系人,key_override
+Resources.bundle,TAP_TO_RECORD_SLIDE_LABEL,Tap & Slide to Cancel,点按并滑动取消,key_override
+Resources.bundle,FORCE_RECEIPTS_ON_TYPING_LABEL,Send on Typing/Recording,输入/录音时发送,key_override
+Resources.bundle,CLEAR_BROADCAST_BUTTON_DESC,Add a button on top left of broadcast chat when deleting messages in order to clear chat.,在删除消息时，为广播聊天左上角新增一个按钮，用于清空聊天。,key_override
+Resources.bundle,MESSAGE_SCHEDULER_SEND_LONGPRESS_DESC,Enable long press gesture on chats' send button in order to directly schedule a message from the chats.,在聊天的发送按钮上启用长按手势，以便直接从聊天中定时发送消息。,key_override
+Resources.bundle,DESELECT_ALL,Deselect All,取消全选,key_override
+Resources.bundle,MANAGE_SETTINGS_THEMES_LABEL,Themes,主题,value_override
+Resources.bundle,STATUS_CUSTOM_BACKGROUND_COLOR_DESC,Replace WhatsApp default text status colors with custom colors.,用自定义颜色替换 WhatsApp 默认的文字状态颜色。,key_override
+Resources.bundle,SELECT_UNLIMITED_PHOTOS_LABEL,Unlimited Photos,无限照片,key_override
+Resources.bundle,MESSAGE_SCHEDULER_SENDING_NOTIFICATION_MESSAGE,Sending Scheduled Message,正在发送定时消息,key_override
+Resources.bundle,GROUP_AND_BROADCAST_DESELECT_ALL_BUTTON,None,无,value_override
+Resources.bundle,CUSTOM_TONES_ADD_ALERT_TITLE,Add Sound File,添加声音文件,key_override
+Resources.bundle,STATUS_TEXT_COPY_TEXT,Copy Text,复制文本,key_override
+Resources.bundle,AUTO_CHECK_FOR_UPDATES_LABEL,Auto Check for Updates,自动检查更新,key_override
+Resources.bundle,CUSTOM_TONES_RENAME_ERROR_ALERT_MESSAGE,File name already exists,文件名已存在,key_override
+Resources.bundle,MANABE_TAGS_ORGANIZE_FAVORITES_TAB_TITLE,Favorites,收藏,key_override
+Resources.bundle,SHARE_SHEET_ENABLED_LABEL,Enabled,已启用,value_override
+Resources.bundle,MESSAGE_SCHEDULER_SEND_LONGPRESS_LABEL,Long press on send,长按发送,key_override
+Resources.bundle,HIDE_CHATS_CHAT_LIST_ACCESS_LABEL,Long Press on Compose Button,长按撰写按钮,key_override
+Resources.bundle,MESSAGE_SCHEDULER_MESSAGES_DESC,View and create scheduled messages,查看并创建定时消息,key_override
+Resources.bundle,MESSAGE_SCHEDULER_CREATE_EDIT,Edit Schedule,编辑定时,key_override
+Resources.bundle,IMPORT_SETTINGS_LABEL,Import Settings,导入设置,key_override
+Resources.bundle,SWIPE_TO_DELETE_DESC,Long left swipe on a chat in chats list in order to delete chat,在聊天列表中向左长滑某个聊天即可删除该聊天。,key_override
+Resources.bundle,FORCE_SEND_RECORDING_TO,Force Send Recording to...,强制向以下对象发送录音状态...,key_override
+Resources.bundle,EMPTY,Empty,空,key_override
+Resources.bundle,CHAT_LIST_ACTIONS_CLEAR_ALL_CHATS,Clear All Chats,清空所有聊天,value_override
+Resources.bundle,INCREASE_ABOUT_LENGHT_LABEL,About Length,简介长度,key_override
+Resources.bundle,CHAT_LIST_ADDONS_LABEL,Chat List,聊天列表,key_override
+Resources.bundle,CHATS_TEXT_STYLE_LABEL,Text Style,文本样式,key_override
+Resources.bundle,INCREASE_FORWARD_CONTACTS_LIMIT_LABEL,Forward Contacts Limit,转发联系人上限,key_override
+Resources.bundle,AUTO_REPLY_DELAY_NONE,No delay,无延迟,key_override
+Resources.bundle,GROUP_AND_BROADCAST_SELECT_ALL_BUTTON,All,全部,value_override
+Resources.bundle,MEDIA_DELETE_BUTTON_LABEL,Media Delete Button,媒体删除按钮,key_override
+Resources.bundle,HIDE_LAST_MESSAGE_LABEL,Hide Last Msg,隐藏最后一条消息,key_override
+Resources.bundle,MEDIA_FORWARD_BUTTON_LABEL,Media Forward Button,媒体转发按钮,key_override
+Resources.bundle,SHARE_SHEET_SHARE_LAST_PHOTO_BUTTON,Share Last Photo,分享最新照片,key_override
+Resources.bundle,CHAT_LIST_FILTER_CONTACTS_TITLE,Contacts,联系人,value_override
+Resources.bundle,STATUS_KEEP_CONTACTS_DELETED_STATUSES_DESC,Statuses that your contacts delete will not be removed from the statuses list until they expire in 24h. Deleted statuses will show a message in the header containing the time it was deleted.,联系人删除的状态在 24 小时过期前不会从状态列表中移除。已删除的状态会在顶部显示一条消息，标明其被删除的时间。,key_override
+Resources.bundle,SHOW_REACTIONS_DATE_LABEL,Show Reactions Date,显示回应时间,key_override
+Resources.bundle,AUTO_REPLY_DELAY_ONE_MINUTE,1 minute,1 分钟,key_override
+Resources.bundle,CHAT_LIST_FILTER_DESC,Adds a new interface on chat list navigation bar to filter & sort the chats,在聊天列表导航栏中新增一个界面，用于筛选和排序聊天。,key_override
+Resources.bundle,NEW_THEME_ALERT_MESSAGE,Enter your theme name,输入你的主题名称,key_override
+Resources.bundle,MANAGE_SETTINGS_LABEL,Manage Settings,管理设置,key_override
+Resources.bundle,MANAGE_TABS_ORGANIZE_SYSTEM_LABEL,System,系统,key_override
+Resources.bundle,MESSAGE_SCHEDULER_LABEL,Message Scheduler,定时消息,key_override
+Resources.bundle,NEW_CHAT_OPTIONS_ALERT_PICKER_BUTTON,Select Contact,选择联系人,key_override
+Resources.bundle,IPAD_FULLSCREEN_MODE_LABEL,iPad Full Screen,iPad 全屏,key_override
+Resources.bundle,CHAT_DETAILS_ALL_MEDIA,All Media,全部媒体,key_override
+Resources.bundle,HIDE_CHAT_STICKERS_BUTTON_LABEL,Hide Stickers,隐藏贴纸按钮,key_override
+Resources.bundle,USE_TOUCH_ID,Use Touch ID,使用 Touch ID,value_override
+Resources.bundle,STATUS_ARCHIVE_VIEWERS_BUTTON,Viewers,查看者,value_override
+Resources.bundle,STICKERS_CREATE_STICKER_PACK_MESSAGE,"You can create your own sticker packs
+by using the + button on top right","你可以使用右上角的 + 按钮
+创建自己的贴纸包",key_override
+Resources.bundle,PURCHASE_WATUSI_LICENSE_BUTTON,Purchase Watusi License,购买 Watusi 许可证,key_override
+Resources.bundle,HIDE_CHAT_CONTACT_PICTURE_DESC,Hide your contacts profile pictures from chats and chat list,在聊天和聊天列表中隐藏联系人头像。,key_override
+Resources.bundle,STATUS_ACTION_SHEET_MARK_VIEWED_BUTTON_TITLE,Mark as Viewed,标记为已查看,key_override
+Resources.bundle,CHAT_LIST_FILTER_GROUPS_SHORT_TITLE,Groups,群组,value_override
+Resources.bundle,MAX_DEVICES_TITLE,How many devices I can activate my license on?,我的许可证最多可以在多少台设备上激活？,key_override
+Resources.bundle,CUSTOM_TONES_TABLE_SECTION_FOOTER,The imported tones will be available inside the chats Custom Tone section,导入的提示音会出现在聊天的“自定义提示音”分区中。,key_override
+Resources.bundle,AUTO_REPLY_EDIT_TEXT_MATCHING_CASE_INSENSITIVE_MATCH,Case-Insensitive Match,忽略大小写匹配,key_override
+Resources.bundle,CHAT_DETAILS_LOCATION,Location,位置,value_override
+Resources.bundle,REDEEM_BUTTON,Redeem,兑换,value_override
+Resources.bundle,URL_COLOR_LABEL,URL Color,URL 颜色,key_override
+Resources.bundle,STATUS_DISABLE_AUTO_MARK_VIEWED_LABEL,Disable Auto Mark Viewed,禁止自动标记为已查看,key_override
+Resources.bundle,STATUS_TEXT_SHARE_IMAGE,Share Image,分享图片,value_override
+Resources.bundle,SYSTEM_EVENT_COLOR_LABEL,System Event Color,系统事件颜色,key_override
+Resources.bundle,AUTO_REPLY_DELAY_ONE_HOUR,1 hour,1 小时,key_override
+Resources.bundle,DISABLE_FORWARD_INDICATOR_LABEL,Disable Forwarded Indicator,隐藏转发标记,key_override
+Resources.bundle,STATUS_ARCHIVE_VIEWERS_EXPORT_STATUS_BUTTON,Export Status,导出状态,key_override
+Resources.bundle,DISABLE_VOIP_DESC,Blocked calls will not be presented inside and outside WhatsApp,被屏蔽的来电不会在 WhatsApp 内外弹出。,key_override
+Resources.bundle,STICKER_PACKS_CUSTOM_TAB,Custom,自定义,value_override
+Resources.bundle,SHARE_SHEET_FULL_SCREENSHOT_IMAGE_NOT_CREATED_MESSAGE,Image Not Created,图片未创建,key_override
+Resources.bundle,SAVE_VIEW_ONCE_MEDIA_DESC,Adds a save button at the bottom of media view for view once media,在“一次查看”媒体的查看界面底部新增保存按钮。,key_override
+Resources.bundle,RESET_SETTINGS_ALL_DATA_FOOTER,Reset all your Watusi settings,重置你的所有 Watusi 设置。,key_override
+Resources.bundle,CALL_CONFIRM_RECENTS_LABEL,Confirm Call Tap In Recents,在最近通话中确认点击,key_override
+Resources.bundle,AUTO_REPLY_EDIT_TEXT_MATCHING_DESC,Text matching will only run for messages of text type,文本匹配仅对文本类型的消息生效。,key_override
+Resources.bundle,DELIVERED_COLOR_LABEL,Delivered Color,送达颜色,key_override
+Resources.bundle,ADD,Add,添加,key_override
+Resources.bundle,SHARE_SHEET_PHOTO_LIBRARY_BUTTON,Photo Library,照片库,key_override
+Resources.bundle,CARRIER_CALL_BUTTON,Carrier Call,运营商通话,key_override
+Resources.bundle,GROUPS_LIST_BROADCAST_LABEL,Broadcasts,广播列表,key_override
+Resources.bundle,NEVER_SEND_TYPING_TO,Never Send Typing to...,绝不向以下对象发送输入状态...,key_override
+Resources.bundle,AUTO_REPLY_MESSAGE_TYPE_TEXT,Text,文本,value_override
+Resources.bundle,STATUS_DISABLE_AUTO_MARK_VIEWED_WHITELIST_LABEL,Force Send Viewed to...,强制向以下对象发送已查看回执...,key_override
+Resources.bundle,EXPORT_SETTINGS_ALL_DATA_FOOTER,"All settings below will be exported in a ZIP file, you can later import that ZIP inside import section",下方所有设置将导出为 ZIP 文件，之后你可以在导入分区中导入该 ZIP。,key_override
+Resources.bundle,AUTO_REPLY_DELAY_FIVE_MINUTES_SHORT,5 mins,5 分,key_override
+Resources.bundle,CHAT_LIST_FILTER_UNSAVED_TITLE,Unsaved,未保存,value_override
+Resources.bundle,ADD_STICKERS_IMPORT_ZIP_FROM_FILES_APP,Import ZIP from Files,从“文件”导入 ZIP,key_override
+Resources.bundle,BYPASS_APP_PROTECTION_LABEL,Bypass App Protection,绕过应用保护,key_override
+Resources.bundle,NEW_CHAT_OPTIONS_ALERT_INPUT_BUTTON,Enter Phone Number,输入电话号码,key_override
+Resources.bundle,CHAT_DETAILS_CONTACT,Contact,联系人,value_override
+Resources.bundle,AUTO_REPLY_MESSAGE_WEB_REQUEST_FORMAT_LABEL,Web Request Format,Web 请求格式,key_override
+Resources.bundle,DELIVERY_RECEIPTS_BUTTON,Delivery Receipts,送达回执,value_override
+Resources.bundle,MANABE_TAGS_ORGANIZE_CAMERA_TAB_TITLE,Camera,相机,key_override
+Resources.bundle,RELAUNCH,Relaunch,重新启动,key_override
+Resources.bundle,SHARE_SHEET_ACTIVE_BUTTONS,Active Buttons,已启用按钮,key_override
+Resources.bundle,PHOTO_LIBRARY_DOCUMENT_COULD_NOT_SEND_DOCUMENT,Could not send document,无法发送文档,key_override
+Resources.bundle,ARCHIVE_LOCK_UNLOCK_BUTTON,Unlock,解锁,value_override
+Resources.bundle,STATUS_ARCHIVE_VIEWERS_SINGULAR_TEXT,Viewer,查看者,key_override
+Resources.bundle,STATUS_ARCHIVE_DROPDOWN_ADD_CONTACT,Add Contact,添加联系人,value_override
+Resources.bundle,STARRED_MESSAGES_PROTECTION_ENABLE_LABEL,Protect Starred Messages,保护星标消息,key_override
+Resources.bundle,SEND_RETURN_KEY_LABEL,Send Return Key,发送回车键,key_override
+Resources.bundle,MESSAGE_FORWARD_LABEL,Message Forward,消息转发,key_override
+Resources.bundle,MESSAGE_FORWARD_NO_CONTACTS_MESSAGE,No contacts selected,未选择联系人,key_override
+Resources.bundle,MESSAGE_SCHEDULER_NEW_SCHEDULED_MESSAGE,New Schedule,新建定时消息,key_override
+Resources.bundle,LATER,Later,稍后,key_override
+Resources.bundle,CHAT_DETAILS_ALL_SENT_MESSAGES_HEADER,Sent Messages,已发送的消息,key_override
+Resources.bundle,TWEAK_LANGUAGE_AUTO_OPTION,Auto,自动,key_override
+Resources.bundle,GROUP_AND_BROADCAST_SELECT_ALL_LABEL,Group/Broadcast Select All,群组/广播全选,key_override
+Resources.bundle,FORCE_RECEIPTS_ON_REPLY_LABEL,Send After Reply,回复后发送,key_override
+Resources.bundle,MEDIA_DISABLE_SAVE_OUTGOING_LABEL,Disable Saving Captured Media,禁止保存拍摄媒体,key_override
+Resources.bundle,MANAGE_TABS_ORGANIZE_TITLE,Tab Bar Items,标签栏项目,key_override
+Resources.bundle,DISABLE_DELIVERY_RECEIPTS_WARNING,Warning! Enabling this feature will cause a delay in messages because WhatsApp server will stop sending you new messages once you have a lot of pending messages on server waiting to be marked as delivered. It is not possible to fix this since its server-sided.,警告！启用此功能会导致消息延迟，因为当服务器上积压了大量等待标记为已送达的消息时，WhatsApp 服务器会停止向你发送新消息。这个问题是服务端造成的，无法修复。,key_override
+Resources.bundle,AUTO_REPLY_TIME_RANGE_DAY_LABEL,Day,日期,key_override
+Resources.bundle,FORCE_SEND_TYPING_TO,Force Send Typing to...,强制向以下对象发送输入状态...,key_override
+Resources.bundle,ARCHIVE_LOCK_UNARCHIVE_ACTION_BUTTON,Unlock & Unarchive,解锁并取消归档,key_override
+Resources.bundle,MESSAGE_SCHEDULER_CREATE_RECIPIENTS,Recipients,接收对象,value_override
+Resources.bundle,KEYBOARD_STYLE_DARK_BLUE,Dark & Blue,深色与蓝色,key_override
+Resources.bundle,DISABLE_FORWARD_INDICATOR_DESC,Disable showing forwarded indicator when forwarding a message to your contacts,将消息转发给联系人时，不显示“已转发”标记。,key_override
+Resources.bundle,MESSAGE_STATUS_FOOTER_SECTION_TITLE,Message Status Footer,消息状态页脚,key_override
+Resources.bundle,EDIT_THEME,Edit Theme,编辑主题,key_override
+Resources.bundle,FAQ_SECTION_SHORT_TITLE,FAQs,常见问题,key_override
+Resources.bundle,SETTINGS_SECTION_TITLE,Settings,设置,key_override
+Resources.bundle,CHAT_PROTECTION_UNLOCK_BUTTON,Unlock,解锁,value_override
+Resources.bundle,PRIVATE_NOTIFICATION_FILTER_CONTACTS_LABEL,Filter List,筛选列表,key_override
+Resources.bundle,STATUS_DOWNLOAD_IMAGE_SAVE_TO_LIBRARY,Save Image to Library,保存图片到相册,value_override
+Resources.bundle,AUTO_REPLY_DELAY_HEADER,Delay,延迟,key_override
+Resources.bundle,THEME_FILE_IMPORT_FAILED_TITLE,Invalid Theme File,无效的主题文件,key_override
+Resources.bundle,ALLOW_VIEW_ONCE_SCREENSHOT_DESC,Disable Screenshot and Screen Recording detection in View Once media,在“一次查看”媒体中禁用截图和录屏检测。,key_override
+Resources.bundle,CHATS_BACKGROUND_COLOR_LABEL,Background Colors,聊天背景颜色,key_override
+Resources.bundle,GROUP_MEMBERS_MESSAGES_COUNT_LABEL,Group Members Msgs Count,群成员消息数,key_override
+Resources.bundle,CUSTOM_TONES_ADD_ALERT_IMPORT_ACTION,Import from Files,从文件导入,key_override
+Resources.bundle,CUSTOM_TONES_DOWNLOAD_ERROR_ALERT_TITLE,Download Error,下载错误,key_override
+Resources.bundle,HELP_AND_SUPPORT_LABEL,Help & Support,帮助与支持,key_override
+Resources.bundle,CLEAR_BROADCAST_BUTTON_LABEL,Clear Broadcast Chat,清空广播聊天,key_override
+Resources.bundle,BYPASS_PROTECTION_SAFE_WIFI_SSIDS_LABEL,Safe WiFi SSIDs,安全 Wi-Fi SSID,key_override
+Resources.bundle,ARCHIVE_LOCK_UNLOCK_TITLE,Unlock Chat,解锁聊天,key_override
+Resources.bundle,MANAGE_TABS_ORGANIZE_ENABLED_SECTION_FOOTER,You can only enable 5 items at once,最多只能同时启用 5 项。,key_override
+Resources.bundle,SELECT_UNLIMITED_PHOTOS_DESC,Send unlimited number of photos at once.,一次发送不限数量的照片。,key_override
+Resources.bundle,TABLES_GROUPED_BACKGROUND_COLOR_LABEL,Grouped Background Color,分组背景颜色,key_override
+Resources.bundle,CHAT_LIST_FILTER_LABEL,Chat List Filter & Sort,聊天列表筛选与排序,key_override
+Resources.bundle,UPDATE_WITH_CONTROL_CENTER_TOGGLES_LABEL,Update Settings from CC Toggle,从控制中心开关更新设置,key_override
+Resources.bundle,START_GROUP_VOICE_CALL_WITH,Start group voice call,发起群组语音通话,key_override
+Resources.bundle,MUTE_SOUND_KEY_CLICKS_LABEL,Mute Key Clicks,静音按键点击声,key_override
+Resources.bundle,HIDE_WEB_SETTINGS_ROW_LABEL,Hide WhatsApp Web,隐藏 WhatsApp Web,key_override
+Resources.bundle,OTHER_SETTINGS_LABEL,Other Settings,其他设置,key_override
+Resources.bundle,THEMES_SECTION_FOOTER,"Use the + button to create a new theme
+Swipe left or long press on a theme to edit
+Select a theme to set as active","使用 + 按钮创建新主题
+向左滑动或长按主题可进行编辑
+选择主题即可将其设为当前主题",key_override
+Resources.bundle,SEND,Send,发送,key_override
+Resources.bundle,AUTO_REPLY_MESSAGE_TYPE_LOCATION,Location,位置,value_override
+Resources.bundle,STATUS_DOWNLOAD_BUTTON_LABEL,Show Download Button,显示下载按钮,key_override
+Resources.bundle,MY_CONTACTS_BLACKLISTED_LABEL,Blacklisted Contacts,已拉黑的联系人,key_override
+Resources.bundle,AUTO_REPLY_MESSAGE_TYPE_ALL_TYPES,All Types,所有类型,key_override
+Resources.bundle,STOP_HIDDEN_CHATS_NOTIF_DESC,Hidden chats will not show new messages notifications,隐藏聊天不会显示新消息通知。,key_override
+Resources.bundle,SHARE_SHEET_STYLE_DARK,Dark,深色,value_override
+Resources.bundle,STATUS_ACTION_SHEET_DOWNLOAD_BUTTON_TITLE,Download,下载,value_override
+Resources.bundle,MANAGE_SETTINGS_AUTO_REPLIES_LABEL,Auto Replies,自动回复,key_override
+Resources.bundle,STATUS_CONTACT_GROUPS_CONTACT_LABEL,Contact,联系人,value_override
+Resources.bundle,AUTO_REPLY_MESSAGE_WEB_REQUEST_RESPONSE_HEADER,Response,响应,key_override
+Resources.bundle,FORCE_SEND_RECEIPTS_TO,Force Send Receipts to...,强制向以下对象发送已读回执...,key_override
+Resources.bundle,ADD_STICKERS_IMPORT_ZIP_FROM_DEVICE_FILES,Import ZIP from Device Files,从设备文件导入 ZIP,key_override
+Resources.bundle,LOADING,Loading...,加载中...,key_override
+Resources.bundle,HIDDEN_CHATS_MESSAGES,Hidden Chats Messages,隐藏聊天消息,key_override
+Resources.bundle,SWIPE_FOR_CONTACT_INFO_DESC,Add a new option in the chats right swipe menu to directly check your contact info and media,在聊天右滑菜单中新增一个选项，可直接查看联系人的信息和媒体。,key_override
+Resources.bundle,ENABLE,Enable,启用,value_override
+Resources.bundle,DISABLE_VOIP_UNKNOWN_CONTACTS_LABEL,Unsaved Numbers,未保存号码,key_override
+Resources.bundle,DISABLE_LANDSCAPE_DESC,Disable WhatsApp from rotating to landscape.,禁止 WhatsApp 旋转到横屏。,key_override
+Resources.bundle,ARCHIVE_PROTECTION_ENABLE_LABEL,Protect Archived Chats,保护已归档聊天,key_override
+Resources.bundle,HIDE_WEB_SETTINGS_ROW_DESC,Remove WhatsApp Web section from settings,从设置中移除 WhatsApp Web 行。,key_override
+Resources.bundle,SWIPE_FOR_CONTACT_INFO_BUTTON,Info,信息,value_override
+Resources.bundle,RELAUNCH_FEATURE_MESSAGE,You need to relaunch WhatsApp in order to enable this feature.,你需要重新启动 WhatsApp 才能启用此功能。,key_override
+Resources.bundle,AUTO_REPLY_DELAY_CUSTOM_MINUTES_SHORT,mins,分,key_override
+Resources.bundle,WHITELIST,Whitelist,白名单,value_override
+Resources.bundle,STATUS_CONTACT_GROUPS_DESC,Adds the option to create contact groups and easily select/deselect them from WhatsApp contacts picker.,新增创建联系人分组的能力，并可在 WhatsApp 联系人选择器中快速全选或取消选择这些分组。,key_override
+Resources.bundle,CHAT_LIST_SORT_SECTION_HEADER,Sort,排序,key_override
+Resources.bundle,REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_BY_ME_ANOTHER_DEVICE_ALERT_MESSAGE,You deleted this message from a linked device on #date,你已于 #date 从已关联设备删除这条消息,key_override
+Resources.bundle,DISABLE_RECORDING_LABEL,Disable Recording Indicator,隐藏正在录音,key_override
+Resources.bundle,CLEAR_CHATS_CLEAR_BUTTON,Clear,清空,value_override
+Resources.bundle,UPDATE,Update,更新,value_override
+Resources.bundle,AUTO_REPLY_CONFIGURATION_VALUE_ON,ON,开,key_override
+Resources.bundle,APP_TINTCOLOR_LABEL,App Tint Color,应用色调,key_override
+Resources.bundle,CONTINUED_AUDIO_MESSAGES_AUDIO_TITLE,Audio Message,音频消息,key_override
+Resources.bundle,TAP_TO_RECORD_WARNING_MESSAGE,Enabling Tap to Record will competely disable WhatsApp option to switch between voice and video recording,启用“点按录音”会完全禁用 WhatsApp 在语音录制和视频录制之间切换的选项。,key_override
+Resources.bundle,LICENSE_REQUIRED_MESSAGE,"A license is required to unlock this feature, you can get a license from inside Accounts & Ad Removal section.",此功能需要许可证才能解锁，你可以在“Accounts & Ad Removal”分区中获取许可证。,key_override
+Resources.bundle,FORCE_RECEIPTS_ACTION_BUTTON_LABEL,Add Button in Chat Actions,在聊天操作中添加按钮,key_override
+Resources.bundle,TEXT_SIZE_LABEL,Text Size,文本大小,key_override
+Resources.bundle,AUTO_REPLY_MESSAGE_SOURCE_WEBSERVER,Web,网络,key_override
+Resources.bundle,AUTO_REPLY_DELAY_THIRTY_MINUTES_SHORT,30 mins,30 分,key_override
+Resources.bundle,MANAGE_SETTINGS_ALL_DATA_LABEL,All Settings & Data,所有设置与数据,key_override
+Resources.bundle,CLEAR_BROADCAST_ALERT_BUTTON,Clear,清空,value_override
+Resources.bundle,SHARE_SHEET_FULL_SCREENSHOT_SUCCESS_MESSAGE,Saved Successfully,保存成功,key_override
+Resources.bundle,VERSION_HISTORY_LABEL,Version History,版本历史,key_override
+Resources.bundle,HIDE_CHAT_CAMERA_BUTTON_LABEL,Hide Camera,隐藏相机按钮,key_override
+Resources.bundle,CANNOT_SEND_MESSAGES_TO_HIDDEN_CHATS_MESSAGE,You can not send messages to a hidden chat.,你不能向隐藏聊天发送消息。,key_override
+Resources.bundle,AUTO_REPLY_EDIT_TEXT_MATCHING_EDIT_FILTER_CONTENT,Edit Filter Content,编辑筛选内容,key_override
+Resources.bundle,CONTACT_ICON_NOTIFICATION_LABEL,Notification Icon,通知图标,key_override
+Resources.bundle,CHAT_LIST_FILTER_ALL_TITLE,All,全部,value_override
+Resources.bundle,LOCAL_NOTIFICATIONS_TYPE_LABEL,Method,方式,key_override
+Resources.bundle,CREATE_NEW_THEME_ACTION_BUTTON,Create New Theme,新建主题,key_override
+Resources.bundle,SHARE_DEVICE_FILES_LABEL,Share Device Files,分享设备文件,value_override
+Resources.bundle,CHAT_DETAILS_ALL_MESSAGES_HEADER,Sent & Received Messages,已发送和已接收消息,key_override
+Resources.bundle,STICKER_PACKS_DEFAULT_TAB,Default,默认,value_override
+Resources.bundle,REDEEM_CODE,Redeem Code,兑换代码,key_override
+Resources.bundle,PHOTO_LIBRARY_DOCUMENT_FILENAME_PLACEHOLDER,File Name,文件名,key_override
+Resources.bundle,DELETE,Delete,删除,value_override
+Resources.bundle,CONTACTS_SPOOFING_CHOOSE_PHOTO,Choose Photo,选择照片,key_override
+Resources.bundle,NEW_CHAT_OPTIONS_INPUT_ALERT_BUTTON,Open Chat,打开聊天,key_override
+Resources.bundle,SHARE_SHEET_FULL_SCREENSHOT_BUTTON,Full Screenshot,全屏截图,key_override
+Resources.bundle,MORE_TWEAKS_CONTACTSYNC_DESC,Sync WhatsApp profile pictures with your Contacts,将 WhatsApp 头像与通讯录同步。,key_override
+Resources.bundle,PRIVATE_NOTIFICATION_LABEL,Private Notifications,隐私通知,key_override
+Resources.bundle,LOCAL_NOTIFICATIONS_TYPE_LOCATION_WARNING,"This feature can not be enabled if Location Services is turned off or if WhatsApp location setting is not set to 'Always'.
+
+Go to Settings > Privacy > Location Services > Enable Location Services > Make sure WhatsApp is set to 'Always'.","如果定位服务已关闭，或 WhatsApp 的定位权限未设置为“始终”，则无法启用此功能。
+
+前往 设置 > 隐私 > 定位服务 > 启用定位服务 > 确认 WhatsApp 已设置为“始终”。",key_override
+Resources.bundle,SHOW_READ_TYPING_ON_INFO_PAGE_DESC,Show Read Receipts and Typing Indicator controls on your contact info page in order to directly enable/disable it for that contact.,在联系人信息页中显示“已读回执”和“正在输入”控制项，以便直接为该联系人启用或禁用。,key_override
+Resources.bundle,HIDE_CHAT_MIC_BUTTON_LABEL,Hide Microphone,隐藏麦克风按钮,key_override
+Resources.bundle,BLACK_WALLPAPER_LABEL,Black Chats Background,黑色聊天背景,key_override
+Resources.bundle,FULLSCREEN_MODE_LABEL,Fullscreen mode,全屏模式,key_override
+Resources.bundle,SENT_BUBBLE_OPACITY_LABEL,Sent Bubble Opacity,发送气泡不透明度,key_override
+Resources.bundle,AUTO_REPLY_MESSAGE_SOURCE_LABEL,Message Source,消息来源,key_override
+Resources.bundle,PRIVATE_NOTIFICATION_FILTER_NONE_LABEL,None,无,value_override
+Resources.bundle,ISSUES_SECTION_SHORT_TITLE,Issues,问题,key_override
+Resources.bundle,STATUS_HIDE_TABBAR_BADGES_DESC,Hide the blue dot badge on the status tab when a new status is available,当有新状态时，隐藏状态标签上的蓝点徽标。,key_override
+Resources.bundle,IMPORT_SETTINGS_INVALID_PLIST_FILE_MESSAGE,The selected file is not a valid PLIST file,所选文件不是有效的 PLIST 文件。,key_override
+Resources.bundle,ENABLE_FONT_STYLE_LABEL,Enable Font Style,启用字体样式,key_override
+Resources.bundle,SHARE_SHEET_SHARE_DEVICE_FILES_BUTTON,Share Device Files,分享设备文件,key_override
+Resources.bundle,DISABLE_VOIP_SELECTED_CONTACTS_LABEL,Selected Contacts,已选联系人,key_override
+Resources.bundle,MY_CONTACTS_PRIVACY_LABEL,My Contacts Privacy,我的联系人隐私,key_override
+Resources.bundle,UNHIDE_CHAT_ALERT_BUTTON,Unhide,取消隐藏,key_override
+Resources.bundle,IN_APP_BROWSER_ALLOWED_DOMAINS_LABEL,Allowed Domains,允许的域名,key_override
+Resources.bundle,CONTACTS_SPOOFING_ENABLE_LABEL,Enable,启用,value_override
+Resources.bundle,STATUS_CONTACT_GROUPS_DELETE_GROUPS_BUTTON,Delete Groups,删除分组,key_override
+Resources.bundle,FREEZE_LASTSEEN_LABEL,Freeze Lastseen,冻结最后上线,key_override
+Resources.bundle,RECEIVED_MESSAGE_COLOR_LABEL,Received Message Color,接收消息颜色,key_override
+Resources.bundle,AUTO_REPLY_TEXT_MATCHING_VALUE_MESSAGE_CONTAINS_SHORT,Contains,包含,key_override
+Resources.bundle,CHAT_DETAILS_VIDEO,Video,视频,value_override
+Resources.bundle,CLEAR_SELECTED_CHATS_BUTTON,Clear Selected Chats,清空所选聊天,value_override
+Resources.bundle,SHARE_SHEET_STYLE_WHITE,White,白色,key_override
+Resources.bundle,RECEIVED_COLOR_LABEL,Received Color,接收颜色,key_override
+Resources.bundle,SEND_RETURN_KEY_DESC,Replace chat textfield keyboard return key with send button.,将聊天输入框键盘上的回车键替换为发送按钮。,key_override
+Resources.bundle,NEVER_SEND_RECEIPTS_TO,Never Send Receipts to...,绝不向以下对象发送已读回执...,key_override
+Resources.bundle,CLEAR_CHATS_BUTTON_LABEL,Clear Chats Button,清空聊天按钮,key_override
+Resources.bundle,AUTO_REPLY_EDIT_TEXT_MATCHING_TYPE_LABEL,Match Type,匹配类型,key_override
+Resources.bundle,NEW_CHAT_OPTIONS_ALERT_MESSAGE,Start a new chat,开始新聊天,key_override
+Resources.bundle,AUTO_REPLY_DELETE_ALERT_ACTION,Delete Reply,删除回复,key_override
+Resources.bundle,STATUS_CONTACT_GROUPS_CONTACTS_LABEL,Contacts,联系人,value_override
+Resources.bundle,MEDIA_DISABLE_SAVE_OUTGOING_DESC,Disable saving sent media taken by WhatsApp built-in camera into your device Photos app.,禁止将通过 WhatsApp 内置相机拍摄并发送的媒体保存到系统相册。,key_override
+Resources.bundle,SEND_DELIVERY_RECEIPTS_BUTTON,Send Delivery Receipts,发送送达回执,key_override
+Resources.bundle,AUTO_REPLY_TEXT_MATCHING_VALUE_MESSAGE_EQUALS_SHORT,Equals,完全匹配,key_override
+Resources.bundle,STICKER_PACKS_PAGE_TITLE,Sticker Packs,贴纸包,key_override
+Resources.bundle,CHAT_LIST_FILTER_UNREAD_SHORT_TITLE,Unread,未读,value_override
+Resources.bundle,CONTACTS_SPOOFING_ABOUT_HEADER,About,简介,key_override
+Resources.bundle,DISMISS,Dismiss,关闭,value_override
+Resources.bundle,KEYBOARD_STYLE_LABEL,Keyboard Style,键盘样式,key_override
+Resources.bundle,ABOUT_ON_CHATS_LABEL,About On Chat,聊天顶部简介,key_override
+Resources.bundle,ARCHIVE_LOCK_LOCK_CONTEXT_MENU_BUTTON,Lock in Archive,锁定到归档,key_override
+Resources.bundle,THEME_TABLES_SECTION_TITLE,Tables,表格,key_override
+Resources.bundle,HIDE_SETTINGS_LABEL,Hide Settings,隐藏设置,key_override
+Resources.bundle,PRIVATE_NOTIFICATION_DESC,"Replace all WhatsApp notifications content with a specific message to protect your privacy.
+
+You can use the original notification by using:
+%[title] to get the notification title
+%[message] to get the notification message","用自定义消息替换所有 WhatsApp 通知内容，以保护你的隐私。
+
+你也可以通过以下占位符使用原始通知内容：
+%[title] 表示通知标题
+%[message] 表示通知内容",key_override
+Resources.bundle,SHARE_SHEET_STYLE_IMAGE_PICKER,Image Picker,图片选择器,key_override
+Resources.bundle,CONTACTS_SPOOFING_ADD_CONTACT,Add Contact,添加联系人,value_override
+Resources.bundle,AUTO_REPLY_CONFIGURATION_VALUE_OFF,OFF,关,key_override
+Resources.bundle,MESSAGE_SCHEDULER_ENABLE_LABEL,Enable,启用,value_override
+Resources.bundle,DISABLE_LARGE_TITLES_LABEL,Disable Large Titles,禁用大标题,key_override
+Resources.bundle,CHAT_PROTECTION_LOCK_BUTTON,Lock,锁定,value_override
+Resources.bundle,AUTO_REPLY_DELAY_FIVE_MINUTES,5 minutes,5 分钟,key_override
+Resources.bundle,EXPORT_SETTINGS_FILES_FOOTER,Settings will be exported in a PLIST file,设置将导出为 PLIST 文件。,key_override
+Resources.bundle,CHAT_DETAILS_DELETED,Deleted,已删除,key_override
+Resources.bundle,EXPORT_AUDIO_MESSAGES_DESC,Add export button to audio messages context menu,在音频消息的上下文菜单中新增导出按钮。,key_override
+Resources.bundle,DARK_MODE_LABEL,Dark Mode,深色模式,key_override
+Resources.bundle,AUTO_REPLY_TIME_RANGE_START_HEADER,Start,开始,key_override
+Resources.bundle,ARCHIVE_LOCK_UNARCHIVE_ACTION_MESSAGE,"The chat is locked in archive.
+Would you like to unlock the chat from archive and unarchive it?","此聊天已锁定在归档中。
+是否要将其从归档中解锁并取消归档？",key_override
+Resources.bundle,DISABLE_CONTINUOUS_VOICES_PLAYBACK_LABEL,Disable Continous Playback,禁用连续播放,key_override
+Resources.bundle,PHOTO_LIBRARY_DOCUMENT_COULD_NOT_GET_FILE,Could not get file URL,无法获取文件 URL,key_override
+Resources.bundle,STATUS_DISABLE_AUTO_ADVANCE_LABEL,Disable Auto Advance,禁止自动切换,key_override
+Resources.bundle,SET_APP_PASSCODE,Set App Passcode,设置应用密码,key_override
+Resources.bundle,CONFIRM_SENDING_STICKER_DESC,Show a confirmation alert before sending a sticker,发送贴纸前显示确认弹窗。,key_override
+Resources.bundle,STATUS_SHOW_STATUSES_MESSAGE_BUTTON,Message,消息,value_override
+Resources.bundle,DUPLICATE,Duplicate,复制,value_override
+Resources.bundle,AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_PROFILE_NAME_DESC,Replaced with contact profile name or group subject,替换为联系人昵称或群组标题。,key_override
+Resources.bundle,STATUS_TEXT_SAVE_IMAGE_TO_LIBRARY,Save Image to Library,保存图片到相册,value_override
+Resources.bundle,STATUS_DOWNLOAD_GIF_SAVE_AS_GIF,Save as GIF,保存为 GIF,key_override
+Resources.bundle,RECORDING_INDICATOR_BUTTON,Recording Indicator,录音状态指示,key_override
+Resources.bundle,FULLSCREEN_MODE_DESC,Hide the status bar inside WhatsApp.,隐藏 WhatsApp 内的状态栏。,key_override
+Resources.bundle,BATCH_DELETE_MESSAGES_LABEL,Batch Delete Messages,批量删除消息,key_override
+Resources.bundle,SUPPORT_SECTION_TITLE,Support,支持,value_override
+Resources.bundle,STATUS_DOWNLOAD_BUTTON_DESC,Add a button on bottom right of statuses in order to download it.,在状态页面右下角添加一个下载按钮。,key_override
+Resources.bundle,FORCE_RECEIPTS_ACTION_BUTTON_DESC,"A button will be added in the chat actions to manually send read receipts, it will show only when the last message is not marked as read",会在聊天操作中新增一个按钮，用于手动发送已读回执。仅当最后一条消息未标记为已读时才显示。,key_override
+Resources.bundle,NEW_CHAT_OPTIONS_DESC,Tapping new chat button will show an alert with the option to enter a phone number to message on WhatsApp without creating a contact for it.,点击新建聊天按钮后，会弹出输入框，可直接输入带国家区号的手机号发起 WhatsApp 聊天，而无需先创建联系人。,key_override
+Resources.bundle,AUTO_REPLY_RECIPIENTS_EXCLUDED_CHATS,Excluded Chats,排除的聊天,key_override
+Resources.bundle,THEME_LABEL,Theme,主题,value_override
+Resources.bundle,CLEAR_CHATS_BUTTON_DESC,Adds a clear button in chats list edit menu to clear chats,在聊天列表编辑菜单中新增一个清空按钮，用于清空聊天。,key_override
+Resources.bundle,SHARE_SHEET_UNBLOCK_CONTACT_BUTTON,Unblock Contact,取消拉黑联系人,key_override
+Resources.bundle,AUTO_REPLY_TIME_RANGE_LABEL,Time Range,时间范围,key_override
+Resources.bundle,STARRED_MESSAGES_PROTECTION_SECTION,Starred Messages Protection,星标消息保护,key_override
+Resources.bundle,IMPORT_SETTINGS_FILES_FOOTER,Only PLIST files can be imported,只能导入 PLIST 文件。,key_override
+Resources.bundle,SAVE_PROFILE_PHOTOS_LABEL,Save Profile Photos,保存头像,key_override
+Resources.bundle,HIDE_CALL_MUTE_DESC,Your contacts will not know that you have muted the microphone during a call.,对方不会知道你在通话中关闭了麦克风。,key_override
+Resources.bundle,AUTO_SHOW_KEYBOARD_DESC,Show keyboard directly after you enter a chat,进入聊天后直接显示键盘。,key_override
+Resources.bundle,IMPORT_SETTINGS_CONFIRM_MESSAGE,"This will replace your current settings, you can't undo this action",这将替换你当前的设置，且无法撤销此操作。,key_override
+Resources.bundle,STATUS_CONTACT_GROUPS_UPDATE_GROUP_LABEL,Update Group,更新分组,key_override
+Resources.bundle,AUTO_REPLY_EDIT_TEXT_MATCHING_ENABLE_LABEL,Enable Text Matching,启用文本匹配,key_override
+Resources.bundle,HIDE_MUTED_BADGES_LABEL,Hide Muted Badges,隐藏已静音徽标,key_override
+Resources.bundle,MANAGE_TABS_ORGANIZE_ENABLED_SECTION_HEADER,Enabled,已启用,value_override
+Resources.bundle,MANAGE_ACCOUNT,Manage Account,管理账号,key_override
+Resources.bundle,KEYBOARD_STYLE_DARK,Dark,深色,value_override
+Resources.bundle,CUSTOM_TONES_PLAY_ERROR_ALERT_MESSAGE,File can not be played,文件无法播放,key_override
+Resources.bundle,CHAT_LIST_ACTIONS_CLEAR_ALL_CHATS_DESC,Clear all chats content and media including archived chats,清空所有聊天内容和媒体，包括归档聊天。,key_override
+Resources.bundle,OKAY,Okay,好的,value_override
+Resources.bundle,STATUS_CONTACT_GROUPS_IMPORT_BUTTON,Import,导入,key_override
+Resources.bundle,CUSTOM_TONES_SECTION_LABEL,Custom Tones,自定义提示音,key_override
+Resources.bundle,MESSAGE_HISTORY_DELETED_MESSAGE,Deleted Message,已删除的消息,key_override
+Resources.bundle,DISABLE_TYPING_DESC,Your contacts will not see you as typing,你的联系人将看不到你正在输入。,key_override
+Resources.bundle,AUTO_REPLY_EDIT_NAME_HEADER,Name,名称,value_override
+Resources.bundle,CANT_VIEW_CONTACTS_LASTSEEN_CONTENT,"If you freeze your last seen, you will not be able to view your contacts' last seen or online status because WhatsApp server requires a user to be online when requesting a last seen and freezing your last seen stops sending your online status to the server.",如果你冻结了最后上线时间，你将无法查看联系人的最后上线或在线状态，因为 WhatsApp 服务器在请求最后上线时要求用户处于在线状态，而冻结最后上线会停止向服务器发送你的在线状态。,key_override
+Resources.bundle,IN_APP_BROWSER_DOMAIN_PLACEHOLDER,Enter any URL,输入任意 URL,key_override
+Resources.bundle,MEDIA_DOCS_DELETE_ALERT_MESSAGE,Delete all documents,删除所有文档,key_override
+Resources.bundle,GROUPS,Groups,群组,value_override
+Resources.bundle,THEME_NAME,Theme Name,主题名称,key_override
+Resources.bundle,CHAT_DETAILS_STICKER,Sticker,贴纸,value_override
+Resources.bundle,ARCHIVE_PROTECTION_SECTION,Archive Protection,归档保护,key_override
+Resources.bundle,CUSTOM_TONES_ADD_ALERT_DOWNLOAD_ACTION,Download from URL,通过 URL 下载,key_override
+Resources.bundle,REDEEM_FAILED_INVALID_DATA_MESSAGE,Invalid Data,数据无效,key_override
+Resources.bundle,ACCOUNT_AD_REMOVAL_LABEL,Account & Ad Removal,账号与去广告,value_override
+Resources.bundle,DISABLE_LARGE_EMOJI_DESC,Disable converting single emoji message into a larger emoji.,禁止将单个表情消息显示为大号表情。,key_override
+Resources.bundle,BYPASS_PROTECTION_DESC,Enter name of the WiFi network on which you wish to bypass protection when you are connected to it.,输入一个 Wi-Fi 网络名称，当你连接到该网络时将绕过保护。,key_override
+Resources.bundle,WHATSAPP_VIDEO_CALL_BUTTON,WhatsApp Video Call,WhatsApp 视频通话,key_override
+Resources.bundle,SENT_MESSAGE_COLOR_LABEL,Sent Message Color,发送消息颜色,key_override
+Resources.bundle,DISABLE_LARGE_TITLES_DESC,Disable iOS 11+ large titles on WhatsApp's tab bars' view controllers,禁用 WhatsApp 标签页控制器上的 iOS 11+ 大标题。,key_override
+Resources.bundle,DISABLE_RECORDING_DESC,Your contacts will not see you as recording,你的联系人将看不到你正在录音。,key_override
+Resources.bundle,CUSTOM_TONES_HELP_LABEL,Notification Sound Not Playing?,通知声音无法播放？,key_override
+Resources.bundle,PRIVATE_NOTIFICATION_TITLE_PLACEHOLDER,Contact Name,联系人名称,key_override
+Resources.bundle,AUTO_REPLY_TIME_RANGE_HEADER,Reply During,回复时段,key_override
+Resources.bundle,START_VIDEO_CALL_WITH,Start video call with,向以下对象发起视频通话,key_override
+Resources.bundle,SHARE_SHEET_SEND_SELECTED_IMAGES_BUTTON,Send Selected Images,发送所选图片,key_override
+Resources.bundle,STATUS_CAPTION_COPY,Copy Caption,复制说明文字,key_override
+Resources.bundle,PHOTO_LIBRARY_DOCUMENT_COULD_NOT_GENERATE_DOCUMENT,Could not generate document,无法生成文档,key_override
+Resources.bundle,WATUSI_PREFERENCES_LABEL,Watusi 3 Preferences,Watusi 3 偏好设置,key_override
+Resources.bundle,CLEAR_BROADCAST_NAVBAR_BUTTON,Clear Chat,清空聊天,key_override
+Resources.bundle,SHOW_READ_TYPING_ON_INFO_PAGE_LABEL,Show Controls on Info Page,在信息页显示控制项,key_override
+Resources.bundle,TEXT_INPUT_COLOR_LABEL,Text Input Color,输入框文字颜色,key_override
+Resources.bundle,DATE_BUBBLE_BACKGROUND_LABEL,Date Bubble Background,日期气泡背景,key_override
+Resources.bundle,STARRED_INDICATOR_COLOR_LABEL,Starred Indicator Color,星标标识颜色,key_override
+Resources.bundle,MANAGE_SETTINGS_SCHEDULED_MESSAGES_LABEL,Scheduled Messages,定时消息,key_override
+Resources.bundle,DISABLE_VOIP_WHITELIST_LABEL,Allowed Contacts,允许的联系人,key_override
+Resources.bundle,MESSAGE_HISTORY_RECEIVED_DATE,Received on #date,接收于 #date,key_override
+Resources.bundle,STATUS_ARCHIVE_VIEWERS_UPLOADED_ON_TEXT,Uploaded on,上传于,key_override
+Resources.bundle,DISABLE_VOIP_ALL_CONTACTS_EXCEPT_LABEL,All Contacts Except,除以下外的所有联系人,key_override
+Resources.bundle,DISABLE_VOIP_FILTER_LABEL,Block Calls From,屏蔽以下来电,key_override
+Resources.bundle,DISABLE_CONTINUOUS_VOICES_PLAYBACK_DESC,Stop WhatsApp from continously playing the next audio message automatically,阻止 WhatsApp 自动连续播放下一条语音消息。,key_override
+Resources.bundle,NEW_CHAT_OPTIONS_INPUT_ALERT_MESSAGE,Enter contact number by adding country code followed by the phone number without any additional symbols,请输入联系人号码：先输入国家区号，再输入电话号码，不要包含任何其他符号。,key_override
+Resources.bundle,STATUS_DOWNLOAD_VIDEO_SAVED_TO_LIBRARY_MESSAGE,Video Saved to Library,视频已保存到相册,key_override
+Resources.bundle,STATUS_DOWNLOAD_IMAGE_SHARE,Share Image,分享图片,value_override
+Resources.bundle,PRIVATE_NOTIFICATION_FILTER_LABEL,Filter,筛选器,key_override
+Resources.bundle,MANAGE_SETTINGS_TWEAK_SETTINGS_LABEL,Tweak Settings,插件设置,key_override
+Resources.bundle,BYPASS_CHAT_PROTECTION_LABEL,Bypass Chat Protection,绕过聊天保护,key_override
+Resources.bundle,GROUPS_LIST_DEFAULT_PAGE_LABEL,Default Page,默认页面,key_override
+Resources.bundle,LOCAL_NOTIFICATIONS_TYPE_AUDIO_DESC,"This option will keep an empty audio file playing in background so that WhatsApp can stay active and receive notifications.
+This method can sometime cause issues when recording a voice message or calling someone on WhatsApp. This issue can be fixed by restarting WhatsApp.","此选项会让一个空的音频文件在后台持续播放，以便 WhatsApp 保持活跃并接收通知。
+这种方法有时会在录制语音消息或拨打 WhatsApp 通话时造成问题。重启 WhatsApp 可解决此问题。",key_override
+Resources.bundle,SHARE_SHEET_SHARE_CONTACT_BUTTON,Share Contact,分享联系人,key_override
+Resources.bundle,STATUS_KEEP_CONTACTS_DELETED_STATUSES_MESSAGE,Deleted at,删除于,key_override
+Resources.bundle,LOCAL_NOTIFICATIONS_TYPE_LOCATION_DESC,This option will activate location updates in background to keep WhatsApp active.,此选项会在后台启用位置更新，以保持 WhatsApp 活跃。,key_override
+Resources.bundle,IN_APP_BROWSER_LABEL,In-App Browser,应用内浏览器,key_override
+Resources.bundle,MESSAGE_SCHEDULER_SHOW_NOTIFICATION_DESC,Show a notification when the message is being sent to the schedule's recipients.,当消息开始向定时任务接收者发送时显示通知。,key_override
+Resources.bundle,AUTO_REPLY_DELAY_CUSTOM_MINUTES,Custom Minutes,自定义分钟数,key_override
+Resources.bundle,STATUS_DOWNLOAD_GIF_SAVE_AS_VIDEO,Save as Video,保存为视频,key_override
+Resources.bundle,MUTE_SOUND_DESC,Mute WhatsApp sound of sent/received messages and/or mute keyboard clicks.,静音 WhatsApp 发送/接收消息的声音，并/或静音键盘点击声。,key_override
+Resources.bundle,TABLES_SEPARATORS_LABEL,Separators,分隔线,key_override
+Resources.bundle,UNHIDE_CHAT_ALERT_TITLE,Unhide Chat,取消隐藏聊天,key_override
+Resources.bundle,GROUP_MEMBERS_MESSAGES_COUNT_DESC,Display the number of messages for each member in the group page.,在群组页面显示每位成员的消息数量。,key_override
+Resources.bundle,CHAT_DETAILS_GIF,GIF,GIF,value_override
+Resources.bundle,CLEAR_ALL_CHATS_BUTTON,Clear All Chats,清空所有聊天,value_override
+Resources.bundle,STATUS_SHOW_STATUSES_ON_CHAT_LIST_DESC,View all your contacts statuses inside bar on top of the chats list,在聊天列表顶部的状态栏中查看所有联系人的状态。,key_override
+Resources.bundle,REDEEM_SUCCESSFULL_TITLE,Code Redeemed,代码已兑换,key_override
+Resources.bundle,AUTO_REPLY_TIME_RANGE_END_HEADER,End,结束,key_override
+Resources.bundle,STICKERS_LABEL,Stickers,贴纸,value_override
+Resources.bundle,GROUPS_LIST_GROUP_LABEL,Groups,群组,value_override
+Resources.bundle,SHARE_DEVICE_FILES_BUTTON,Device Files,设备文件,key_override
+Resources.bundle,CALL_CONFIRM_DESC,"Get a confirmation alert when you tap voice or video call buttons, you can also choose between a WhatsApp call or a normal carrier call.",点按语音或视频通话按钮时显示确认弹窗，你也可以选择发起 WhatsApp 通话或普通运营商通话。,key_override
+Resources.bundle,STATUS_ARCHIVE_DESC,This will create an archive of all your uploaded statuses with viewers. You can access archive from a button on top of updates tab.,为你发布过的所有状态及其查看者创建归档。你可以通过更新标签页顶部的按钮访问归档。,key_override
+Resources.bundle,STATUS_DISABLE_AUTO_MARK_VIEWED_DESC,Disable auto marking your contacts status as viewed and manually send viewed receipts using Watusi button. Statuses marked as viewed will not show the force mark button.,禁止自动将联系人的状态标记为已查看，并通过 Watusi 按钮手动发送已查看回执。已标记为已查看的状态将不再显示强制标记按钮。,key_override
+Resources.bundle,MUTE_SOUND_LABEL,Mute Sound,静音,key_override
+Resources.bundle,MESSAGE_SCHEDULER_ALERT_SEND_MESSAGE_NOW,Send Message Now,立即发送消息,key_override
+Resources.bundle,AUTO_REPLY_DELAY_THIRTY_MINUTES,30 minutes,30 分钟,key_override
+Resources.bundle,STATUS_ARCHIVE_VIEWERS_TITLE,Viewers,查看者,key_override
+Resources.bundle,MEDIA_LABEL,Media,媒体,key_override
+Resources.bundle,AUTO_REPLY_EDIT_REPLY_CONDITIONS_HEADER,Reply Conditions,回复条件,key_override
+Resources.bundle,STATUS_CONTACT_GROUPS_DELETE_BUTTON,Delete,删除,key_override
+Resources.bundle,SEPARATOR_COLOR_LABEL,Separator Color,分隔线颜色,key_override
+Resources.bundle,AUTO_REPLY_EDIT_TEXT_MATCHING_ADD_FILTER_CONTENT,Add Filter Content,添加筛选内容,key_override
+Resources.bundle,CHAT_LIST_ACTIONS_DESC,Adds a More button in the chats list toolbar for more actions to the list,在聊天列表工具栏中新增“更多”按钮，以便对列表执行更多操作。,key_override
+Resources.bundle,AUTO_REPLY_RECIPIENTS_SELECTED_CHATS,Selected Chats,已选聊天,key_override
+Resources.bundle,CHAT_LIST_ACTIONS_CLEAR_SELECTED_CHATS_DESC,Clear selected chats content and media,清空所选聊天中的内容和媒体。,key_override
+Resources.bundle,UNABLE_TO_SEND_RECEIVE_MESSAGES_CONTENT,"This issue might be from ""Disable Delivery Receipts"" feature, WhatsApp server will stop receving/sending your new messages if you have a lot of pending messages on server waiting to be marked as delivered. It is not possible to fix this since its server-sided.",此问题可能由“禁用送达回执”功能引起。如果服务器上有大量等待标记为已送达的待处理消息，WhatsApp 服务器会停止接收/发送你的新消息。由于这是服务端问题，无法修复。,key_override
+Resources.bundle,REVOKED_INDICATOR_COLOR_DESC,Watusi's icon next to revoked messages,已撤回消息旁 Watusi 图标的颜色。,key_override
+Resources.bundle,STATUS_CONTACT_GROUPS_MANAGE_BUTTON,Manage,管理,key_override
+Resources.bundle,AUTO_REPLY_RECIPIENTS_ALL_CHATS,All Chats,所有聊天,key_override
+Resources.bundle,REVOKED_INDICATOR_COLOR_LABEL,Revoked Indicator Color,撤回标识颜色,key_override
+Resources.bundle,CHAT_LIST_FILTER_UNSAVED_SHORT_TITLE,Unsaved,未保存,value_override
+Resources.bundle,BYPASS_PROTECTION_LABEL,Bypass Protection,绕过保护,key_override
+Resources.bundle,REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_MESSAGE,#name deleted this message on #date,#name 于 #date 删除了这条消息,key_override
+Resources.bundle,CUSTOM_TONES_RENAME_ERROR_ALERT_TITLE,Error,错误,key_override
+Resources.bundle,DARK_MODE_ENABLE_LABEL,Enable Dark Mode,启用深色模式,key_override
+Resources.bundle,IMPORT_SETTINGS_INVALID_FILE_TITLE,Invalid File,无效文件,value_override
+Resources.bundle,NEW_CHAT_OPTIONS_LABEL,New Chat Options,新建聊天选项,key_override
+Resources.bundle,NEW_THEME_ALERT_TITLE,New Theme,新建主题,key_override
+Resources.bundle,FORCE_VOICE_MESSAGES_RECEIPTS,Force Send Voice Receipts,强制发送语音已读回执,key_override
+Resources.bundle,CHAT_PROTECTION_LOCK_ALL_CHATS,Lock all Chats,锁定所有聊天,key_override
+Resources.bundle,SEND_READ_RECEIPTS_BUTTON,Send Read Receipts,发送已读回执,key_override
+Resources.bundle,BAD_PROMO_CODE_FORMAT_MESSAGE,Invalid Promo Code,无效的优惠码,key_override
+Resources.bundle,AUTO_REPLY_TEXT_MATCHING_VALUE_MESSAGE_EQUALS,Message Equals,消息完全匹配,key_override
+Resources.bundle,HIDE_FREQUENTLY_CONTACTED_DESC,Hide frequently contacted section from chat picker list,从聊天选择器列表中隐藏“常用联系人”分区。,key_override
+Resources.bundle,STATUS_ARCHIVE_VIEWERS_PLURAL_TEXT,Viewers,查看者,value_override
+Resources.bundle,HIDE_SETTINGS_ALERT_TITLE,WARNING!,警告！,key_override
+Resources.bundle,TWEAK_LANGUAGE_LABEL,Language,语言,value_override
+Resources.bundle,MORE_TWEAKS_TITLE,More Tweaks,更多扩展,key_override
+Resources.bundle,AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_LABEL,Available Tags,可用标签,key_override
+Resources.bundle,SHARE_SHEET_PHOTO_LIBRARY_AS_DOCUMENT_BUTTON,Photo Library as Document,以文档形式发送照片库内容,key_override
+Resources.bundle,AUTO_REPLY_RECIPIENTS_GROUPS,Groups,群组,key_override
+Resources.bundle,STATUS_CUSTOM_BACKGROUND_COLOR_LABEL,Custom Status Color,自定义状态颜色,key_override
+Resources.bundle,STATUS_SHOW_STATUSES_MY_STATUS_LABEL,My Status,我的状态,key_override
+Resources.bundle,MESSAGE_STATUS_CHECKMARKS_SECTION_TITLE,Message Status Checkmarks,消息状态勾号,key_override
+Resources.bundle,USER_INTERFACE_LABEL,User Interface,界面,key_override
+Resources.bundle,RECEIVE_BUBBLE_BACKGROUND_LABEL,Received Bubble Background,接收气泡背景,key_override
+Resources.bundle,GROUP_AND_BROADCAST_SELECT_ALL_DESC,Add new button in Group/Broadcast picker to select/deselect all contacts. This will also bypass the 256 contacts limit. NOTE: it might not be possible to add more than 256 members into a group on server but you can try.,在群组/广播选择器中新增全选/取消全选按钮。这也会绕过 256 个联系人的限制。注意：服务端可能仍无法向群组添加超过 256 名成员，但你可以尝试。,key_override
+Resources.bundle,CUSTOM_TONES_PLAY_ERROR_ALERT_TITLE,Play Error,播放错误,key_override
+Resources.bundle,ACCOUNT,Account,账号,value_override
+Resources.bundle,LICENSE_SECTION_SHORT_TITLE,License,许可证,value_override
+Resources.bundle,AUTO_REPLY_TIME_RANGE_TIME_LABEL,Time,时间,key_override
+Resources.bundle,MY_CONTACTS_PRIVACY_DESC,"Select contacts you wish to exclude from the list of your contacts sent to WhatsApp server. Contacts that are not sent to server will not be able to view your picture/status/lastseen only if you set WhatsApp privacy to 'My contacts'.
+
+NOTE:
+1) You'll not be able to edit/delete your blacklisted contacts if you have this feature enabled.
+2)Your blocked contacts' profile picture thumbnails will not change until you open their picture and load the new one. 
+3) You will not receive status media from your blacklisted contacts. 
+4) If you have 'Stalky' tweak installed, you will not receive stalky updates for blacklisted contacts.","选择你希望从发送到 WhatsApp 服务器的联系人列表中排除的联系人。未发送到服务器的联系人将无法查看你的头像/状态/最后上线，但前提是你已将 WhatsApp 隐私设置为“我的联系人”。
+
+注意：
+1) 启用此功能后，你将无法编辑/删除已拉黑的联系人。
+2) 你已屏蔽联系人的头像缩略图不会立即变化，直到你打开他们的头像并加载新图片。
+3) 你将不会收到已拉黑联系人的状态媒体。
+4) 如果你安装了 “Stalky” tweak，你将不会收到已拉黑联系人的 Stalky 更新。",key_override
+Resources.bundle,CONTINUED_AUDIO_MESSAGES_LABEL,Continued Audio Messages,后台连续播放语音,key_override
+Resources.bundle,STATUS_DOWNLOAD_GIF_SAVED_TO_LIBRARY_MESSAGE,GIF Saved to Library,GIF 已保存到相册,key_override
+Resources.bundle,LOCAL_NOTIFICATIONS_TYPE_LOCATION,Location,位置,value_override
+Resources.bundle,THEMES_STORE_LABEL,Themes Store,主题商店,key_override
+Resources.bundle,CARRIER_CALL_UNAVAILABLE_MESSAGE,Carrier call is not available,运营商通话不可用,key_override
+Resources.bundle,SHARE_DEVICE_FILES_DESC,Adds a new button to Share Document's sheet that allows you to share any file from your device.,在“分享文档”面板中新增一个按钮，可分享设备中的任意文件。,key_override
+Resources.bundle,SHARE_SHEET_TAKE_PHOTOVIDEO_BUTTON,Take Photo or Video,拍摄照片或视频,key_override
+Resources.bundle,ARCHIVE_LOCKED_CHATS,Chats Locked in Archive,已锁定在归档中的聊天,key_override
+Resources.bundle,CHAT_LIST_SORT_MESSAGE_DATE_ASC_SHORT_TITLE,Date ↓,日期 ↓,key_override
+Resources.bundle,CHAT_DETAILS_SECTION_LABEL,Chat Details Section,聊天详情分区,key_override
+Resources.bundle,AUTO_REPLY_MESSAGE_AVAILABLE_TAGS_FOOTER,Tags will be replaced with its corresponding value,标签会被替换为对应的值。,key_override
+Resources.bundle,MESSAGE_TIMESTAMP_SECTION_TITLE,Message Timestamp,消息时间戳,key_override
+Resources.bundle,HIDE_CHAT_CALL_BUTTONS_LABEL,Hide Call Buttons,隐藏通话按钮,key_override
+Resources.bundle,AUTO_REPLY_SIDELOAD_NOTE,NOTE: Auto Reply will not work properly when WhatsApp is not open on non-jailbroken devices,注意：在非越狱设备上，如果 WhatsApp 没有保持打开，自动回复将无法正常工作。,key_override
+Resources.bundle,STATUS_CONTACT_GROUPS_NEW_GROUP_LABEL,New Group,新建分组,key_override
+Resources.bundle,INCREASE_ABOUT_LENGHT_DESC,Increase about length from 139 to 256 characters.,将简介长度从 139 个字符提升到 256 个字符。,key_override
+Resources.bundle,HIDE_CHATS_DESC,Hidden chats will be hidden from the chats list and will show an empty chat when opening it from somewhere else. You can only view your hidden chats messages from this page.,被隐藏的聊天将从聊天列表中消失，从其他入口打开时会显示为空聊天。你只能在此页面查看隐藏聊天中的消息。,key_override
+Resources.bundle,STATUS_DOWNLOAD_IMAGE_SAVED_TO_LIBRARY_MESSAGE,Image Saved to Library,图片已保存到相册,key_override
+Resources.bundle,SHOW_SECONDS_LABEL,Show Seconds,显示秒数,key_override
+Resources.bundle,DISABLE_TYPING_LABEL,Disable Typing Indicator,隐藏正在输入,key_override
+Resources.bundle,REVOKE_MESSAGES_DISABLE_CONTACTS_REVOKING_ALERT_TITLE,Message Deleted,消息已删除,key_override
+Resources.bundle,CUSTOM_TONES_ERROR_IMPORT_ALERT_TITLE,Import Error,导入错误,key_override
+Resources.bundle,DISABLE_VOIP_ALL_CONTACTS_LABEL,All Contacts,所有联系人,key_override
+Resources.bundle,THEME_GENERAL_SECTION_TITLE,General,通用,value_override
+WatusiToggle.bundle,ACTIVE_TOGGLES_FOOTER,Add and organize additional toggles to appear in Control Center.,添加并调整要在控制中心显示的附加开关。,key_override
+WatusiToggle.bundle,ACTIVE_SECTION_FOOTER,A maximum number of 6 toggles can show in your control center.,控制中心最多只能显示 6 个开关。,key_override
+WatusiToggle.bundle,BLOCK_CALLS,Block Calls,屏蔽来电,key_override
+WatusiToggle.bundle,LAST_SEEN,Last Seen,最后上线,key_override
+WatusiToggle.bundle,DELIVERY_RECEIPTS,Delivery Receipts,送达回执,key_override
+WatusiToggle.bundle,ACTIVE_TOGGLES_LABEL,Active Toggles,已启用开关,key_override
+WatusiToggle.bundle,DISABLE_WHEN_PASSCODE_LOCKED_FOOTER,Disable access to the toggles when the device is passcode locked.,设备锁屏时禁止访问这些开关。,key_override
+WatusiToggle.bundle,AUTO_REPLY,Auto Reply,自动回复,key_override
+WatusiToggle.bundle,TOGGLES_PAGE_TITLE,Toggles,开关,key_override
+WatusiToggle.bundle,HIDE_CHATS,Hide Chats,隐藏聊天,key_override
+WatusiToggle.bundle,RESPRING_BUTTON,Respring,注销 SpringBoard,key_override
+WatusiToggle.bundle,DISABLE_WHEN_PASSCODE_LOCKED_LABEL,Disable When Passcode Locked,锁屏时禁用,key_override
+WatusiToggle.bundle,DISABLE_INTERNET,Disable Internet,禁用网络,key_override
+WatusiToggle.bundle,READ_RECEIPTS,Read Receipts,已读回执,key_override
+WatusiToggle.bundle,RESPRING_FOOTER,A respring is required to apply changes.,应用更改需要执行一次注销 SpringBoard。,key_override
+WatusiToggle.bundle,ACTIVE_SECTION_HEADER,Active,已启用,key_override
+WatusiToggle.bundle,DISABLED_SECTION_HEADER,Disabled,已禁用,key_override
