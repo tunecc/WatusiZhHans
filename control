@@ -1,9 +1,9 @@
-Package: me.tune.watusi3.zh-hans
-Name: Watusi 3 Chinese Language Pack
-Version: 1.3.9-1
+Package: com.tune.watusi3.zh-hans
+Name: Watusi 3 Simplified Chinese Language Pack
+Version: 1.3.9-2
 Architecture: iphoneos-arm64e
-Depends: com.fouadraheb.watusi3 (= 1.3.9)
-Description: Simplified Chinese localization overlay for Watusi 3 with a language-menu hook.
+Depends: com.fouadraheb.watusi3
+Description: 为Watusi 3 for WhatsApp提供中文包（插件内可切换），基于v1.3.9开发
 Maintainer: Tune
 Author: Tune
 Section: Localization
