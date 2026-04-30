@@ -1,17 +1,21 @@
 # WatusiZhHans-roothide
 
-给 `com.fouadraheb.watusi3_1.3.9_iphoneos-arm64.deb` 做的 roothide / rootless 中文语言包工程。
+给 `com.fouadraheb.watusi3_1.3.9_iphoneos-arm64.deb` 做的 roothide / rootless 中文包工程。
 
 ## 设计
 
-- 工程类型：Theos `iphone/null`
+- 工程类型：Theos `iphone/tweak`
 - 打包方案：`THEOS_PACKAGE_SCHEME=roothide`
 - 路径策略：roothide 模块不会像 rootless 模块那样自动补 `/var/jb` 前缀；本工程是纯资源包，所以直接按原始 deb 的实际落点保留 `layout/var/jb/...`
-- 覆盖方式：只覆盖资源，不改动任何二进制、Hook 或运行时补丁
+- 覆盖方式：资源覆盖 + 极小运行时 Hook，不改动 Watusi 原二进制
 - 自动语言兼容：除 `zh-Hans.lproj` 外，同时生成 `zh.lproj`、`zh_CN.lproj`、`zh-CN.lproj`、`zh_Hans.lproj`、`zh-Hans-CN.lproj`、`zh_Hans_CN.lproj`
 - 覆盖路径：
   - `var/jb/Library/Application Support/Watusi/Resources.bundle/zh-Hans.lproj/Localizable.strings`
   - `var/jb/Library/ControlCenter/Bundles/WatusiToggle.bundle/zh-Hans.lproj/Localizable.strings`
+- 运行时行为：
+  - 注入 `WhatsApp`
+  - hook `FRSListCell` 的 `setListItems:` / `setListValues:`
+  - 只在识别到 Watusi 语言菜单时追加 `简体中文` / `zh-Hans`
 
 ## 源数据
 
@@ -43,9 +47,10 @@ make package FINALPACKAGE=1
 - 已覆盖主资源包中最常见的入口、分区、按钮和核心功能说明
 - 未单独翻译的条目会保留英文值，不会掉成原始 key
 - 可以直接用 `output/spreadsheet/watusi_zh_hans_missing.csv` 继续人工补翻
-- 由于 Watusi 1.3.9 的语言菜单选项是代码侧枚举，不会自动出现“中文”；当前包主要通过 `Language = Auto` + 中文 locale 别名实现自动命中
+- 由于 Watusi 1.3.9 的语言菜单选项是代码侧枚举，本工程现在通过运行时 hook 补出 `简体中文` 选项；同时仍保留 `Language = Auto` + 中文 locale 别名的自动命中路径
 
 ## 安装后验证
 
 - 重新打开 WhatsApp
+- 打开 `Other Settings -> Language`，确认出现 `简体中文`
 - 如需立即看到 Control Center 文案变化，重开控制中心或执行一次 respring
