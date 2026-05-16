@@ -2,6 +2,7 @@
 
 import csv
 import json
+import os
 import plistlib
 import shutil
 from pathlib import Path
@@ -9,7 +10,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 WORKSPACE = ROOT.parent
-EXTRACTED = WORKSPACE / "extracted" / "watusi"
+EXTRACTED = Path(os.environ.get("WATUSI_EXTRACTED_DIR", WORKSPACE / "extracted" / "watusi")).expanduser()
+PACKAGE_SCHEME = os.environ.get("WATUSI_PACKAGE_SCHEME", os.environ.get("THEOS_PACKAGE_SCHEME", "")).strip()
+STAGE_ROOT = Path(os.environ.get("WATUSI_STAGE_ROOT", ROOT / "layout")).expanduser()
 
 RESOURCES_EN = EXTRACTED / "var/jb/Library/Application Support/Watusi/Resources.bundle/en.lproj/Localizable.strings"
 TOGGLE_EN = EXTRACTED / "var/jb/Library/ControlCenter/Bundles/WatusiToggle.bundle/en.lproj/Localizable.strings"
@@ -18,10 +21,10 @@ COMMON_OVERRIDES = ROOT / "sources/translations/common_value_overrides.json"
 RESOURCES_OVERRIDES = ROOT / "sources/translations/resources_key_overrides.json"
 TOGGLE_OVERRIDES = ROOT / "sources/translations/toggle_key_overrides.json"
 
-RESOURCES_OUT = ROOT / "layout/var/jb/Library/Application Support/Watusi/Resources.bundle/zh-Hans.lproj/Localizable.strings"
-TOGGLE_OUT = ROOT / "layout/var/jb/Library/ControlCenter/Bundles/WatusiToggle.bundle/zh-Hans.lproj/Localizable.strings"
 ZH_ALIAS_DIRS = [
     "zh-Hans.lproj",
+]
+LEGACY_ZH_ALIAS_DIRS = [
     "zh_CN.lproj",
     "zh-CN.lproj",
     "zh.lproj",
@@ -33,6 +36,17 @@ ZH_ALIAS_DIRS = [
 INVENTORY_OUT = ROOT / "output/spreadsheet/watusi_zh_hans_inventory.csv"
 MISSING_OUT = ROOT / "output/spreadsheet/watusi_zh_hans_missing.csv"
 SUMMARY_OUT = ROOT / "output/spreadsheet/watusi_zh_hans_summary.json"
+
+
+def resolve_locale_base_dir() -> Path:
+    if PACKAGE_SCHEME == "rootless":
+        return STAGE_ROOT / "var/jb/Library"
+    return STAGE_ROOT / "Library"
+
+
+LOCALE_BASE_DIR = resolve_locale_base_dir()
+RESOURCES_OUT = LOCALE_BASE_DIR / "Application Support/Watusi/Resources.bundle/zh-Hans.lproj/Localizable.strings"
+TOGGLE_OUT = LOCALE_BASE_DIR / "ControlCenter/Bundles/WatusiToggle.bundle/zh-Hans.lproj/Localizable.strings"
 
 
 def load_plist(path: Path) -> dict:
@@ -47,6 +61,13 @@ def load_json(path: Path) -> dict:
 
 def ensure_parent(path: Path) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
+
+
+def display_path(path: Path) -> str:
+    try:
+        return str(path.relative_to(ROOT))
+    except ValueError:
+        return str(path)
 
 
 def build_bundle(bundle_name: str, source: dict, value_overrides: dict, key_overrides: dict):
@@ -103,8 +124,14 @@ def write_alias_localizations(canonical_path: Path, data: dict) -> list[str]:
     for alias in ZH_ALIAS_DIRS:
         path = parent / alias / canonical_path.name
         write_plist(path, data)
-        written.append(str(path.relative_to(ROOT)))
+        written.append(display_path(path))
     return written
+
+
+def remove_legacy_alias_dirs(canonical_path: Path) -> None:
+    parent = canonical_path.parent.parent
+    for alias in LEGACY_ZH_ALIAS_DIRS:
+        shutil.rmtree(parent / alias, ignore_errors=True)
 
 
 def write_inventory(path: Path, rows) -> None:
@@ -134,8 +161,8 @@ def main() -> None:
     resources_overrides = load_json(RESOURCES_OVERRIDES)
     toggle_overrides = load_json(TOGGLE_OVERRIDES)
 
-    # Clean the earlier rootful-style output path if it exists.
-    shutil.rmtree(ROOT / "layout/Library", ignore_errors=True)
+    remove_legacy_alias_dirs(RESOURCES_OUT)
+    remove_legacy_alias_dirs(TOGGLE_OUT)
 
     resources_localized, resources_rows, resources_stats = build_bundle(
         "Resources.bundle",
@@ -160,10 +187,10 @@ def main() -> None:
         "resources": resources_stats,
         "toggle": toggle_stats,
         "outputs": {
-            "resources_strings": str(RESOURCES_OUT.relative_to(ROOT)),
-            "toggle_strings": str(TOGGLE_OUT.relative_to(ROOT)),
-            "inventory_csv": str(INVENTORY_OUT.relative_to(ROOT)),
-            "missing_csv": str(MISSING_OUT.relative_to(ROOT)),
+            "resources_strings": display_path(RESOURCES_OUT),
+            "toggle_strings": display_path(TOGGLE_OUT),
+            "inventory_csv": display_path(INVENTORY_OUT),
+            "missing_csv": display_path(MISSING_OUT),
             "resource_locale_aliases": resources_aliases,
             "toggle_locale_aliases": toggle_aliases,
         },

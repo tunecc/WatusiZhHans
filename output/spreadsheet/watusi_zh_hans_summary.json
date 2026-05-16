@@ -14,27 +14,15 @@
     "fallback_en": 0
   },
   "outputs": {
-    "resources_strings": "layout/var/jb/Library/Application Support/Watusi/Resources.bundle/zh-Hans.lproj/Localizable.strings",
-    "toggle_strings": "layout/var/jb/Library/ControlCenter/Bundles/WatusiToggle.bundle/zh-Hans.lproj/Localizable.strings",
+    "resources_strings": "/var/folders/t9/zrl7l3cn5sj36jcdv8mxp8_40000gn/T/wzh-pack.sOzpkb/rootless/var/jb/Library/Application Support/Watusi/Resources.bundle/zh-Hans.lproj/Localizable.strings",
+    "toggle_strings": "/var/folders/t9/zrl7l3cn5sj36jcdv8mxp8_40000gn/T/wzh-pack.sOzpkb/rootless/var/jb/Library/ControlCenter/Bundles/WatusiToggle.bundle/zh-Hans.lproj/Localizable.strings",
     "inventory_csv": "output/spreadsheet/watusi_zh_hans_inventory.csv",
     "missing_csv": "output/spreadsheet/watusi_zh_hans_missing.csv",
     "resource_locale_aliases": [
-      "layout/var/jb/Library/Application Support/Watusi/Resources.bundle/zh-Hans.lproj/Localizable.strings",
-      "layout/var/jb/Library/Application Support/Watusi/Resources.bundle/zh_CN.lproj/Localizable.strings",
-      "layout/var/jb/Library/Application Support/Watusi/Resources.bundle/zh-CN.lproj/Localizable.strings",
-      "layout/var/jb/Library/Application Support/Watusi/Resources.bundle/zh.lproj/Localizable.strings",
-      "layout/var/jb/Library/Application Support/Watusi/Resources.bundle/zh_Hans.lproj/Localizable.strings",
-      "layout/var/jb/Library/Application Support/Watusi/Resources.bundle/zh-Hans-CN.lproj/Localizable.strings",
-      "layout/var/jb/Library/Application Support/Watusi/Resources.bundle/zh_Hans_CN.lproj/Localizable.strings"
+      "/var/folders/t9/zrl7l3cn5sj36jcdv8mxp8_40000gn/T/wzh-pack.sOzpkb/rootless/var/jb/Library/Application Support/Watusi/Resources.bundle/zh-Hans.lproj/Localizable.strings"
     ],
     "toggle_locale_aliases": [
-      "layout/var/jb/Library/ControlCenter/Bundles/WatusiToggle.bundle/zh-Hans.lproj/Localizable.strings",
-      "layout/var/jb/Library/ControlCenter/Bundles/WatusiToggle.bundle/zh_CN.lproj/Localizable.strings",
-      "layout/var/jb/Library/ControlCenter/Bundles/WatusiToggle.bundle/zh-CN.lproj/Localizable.strings",
-      "layout/var/jb/Library/ControlCenter/Bundles/WatusiToggle.bundle/zh.lproj/Localizable.strings",
-      "layout/var/jb/Library/ControlCenter/Bundles/WatusiToggle.bundle/zh_Hans.lproj/Localizable.strings",
-      "layout/var/jb/Library/ControlCenter/Bundles/WatusiToggle.bundle/zh-Hans-CN.lproj/Localizable.strings",
-      "layout/var/jb/Library/ControlCenter/Bundles/WatusiToggle.bundle/zh_Hans_CN.lproj/Localizable.strings"
+      "/var/folders/t9/zrl7l3cn5sj36jcdv8mxp8_40000gn/T/wzh-pack.sOzpkb/rootless/var/jb/Library/ControlCenter/Bundles/WatusiToggle.bundle/zh-Hans.lproj/Localizable.strings"
     ]
   }
 }
